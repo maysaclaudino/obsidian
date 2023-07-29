@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "99f6052373cf983a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3abff6b4cc2a958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fee195643643a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BCC USP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88802294f16f7b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38616215b65fd27",
+        "type": "tabs",
+        "dimension": 40.773809523809526,
+        "children": [
+          {
+            "id": "0652afb2528a23b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6caf3f44e8730830",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d54cf9457d25125e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eac4e3b7430ab2bb",
+        "type": "tabs",
+        "dimension": 59.226190476190474,
+        "children": [
+          {
+            "id": "93da3528017c7303",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BCC USP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "18a0bf8f32db3bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d0566126f23ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60c8749ec9e1085c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BCC USP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "811dd785a20eb2f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BCC USP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "832fa7eccdc57546",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5358258af8326bdf",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-keep",
+              "state": {}
+            }
+          },
+          {
+            "id": "81716997caea4576",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "81716997caea4576",
+  "lastOpenFiles": [
+    "- MAC0338 Análise/Análise de Algoritmos.md",
+    "BCC USP.md",
+    "Untitled",
+    "- MAC0338 Análise/olaa.md",
+    "olaa.md",
+    "- MAC0338 Análise",
+    "- MAC0338 Análise/oie.md",
+    "Datas/2023-07-24.md",
+    "Datas",
+    "21-03-2023.md",
+    "Análise de algoritmos.md",
+    "MAC0326 Algoritmos.md",
+    "Untitled.canvas",
+    "Pasted image 20230723102829.png",
+    "Pasted image 20230723102230.png",
+    "Context/spacesLastSync.log",
+    "Context",
+    "21/03/2023.md",
+    "21/03",
+    "21",
+    "MAC0209 Modelagem.md"
+  ]
+}
