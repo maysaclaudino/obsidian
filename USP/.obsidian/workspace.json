@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BCC USP.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BCC USP.md"
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCC USP.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +120,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BCC USP.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -151,31 +151,35 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Open command palette": false,
-      "obsidian-custom-frames:Open Google Calendar": false,
       "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "templates:Insert template": false
     }
   },
-  "active": "81716997caea4576",
+  "active": "7fee195643643a39",
   "lastOpenFiles": [
-    "- MAC0338 Análise/Análise de Algoritmos.md",
+    "_MAC0338 Análise/ok.md",
+    "_MAC0338 Análise/err.md",
+    "eiii.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
     "BCC USP.md",
-    "Untitled",
-    "- MAC0338 Análise/olaa.md",
-    "olaa.md",
-    "- MAC0338 Análise",
-    "- MAC0338 Análise/oie.md",
     "Datas/2023-07-24.md",
+    "_MAC0338 Análise/olaa.md",
+    "_MAC0338 Análise/oie.md",
+    "Templates/aula-análise.md",
+    "Templates",
+    "olaa.md",
+    "_MAC0338 Análise",
     "Datas",
     "21-03-2023.md",
     "Análise de algoritmos.md",
