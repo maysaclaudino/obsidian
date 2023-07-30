@@ -7,8 +7,7 @@
 
 - [*] [[Controle de faltas]]
 
-alteração aquir
-mais uma
+oie
 
 # Schedule
 
