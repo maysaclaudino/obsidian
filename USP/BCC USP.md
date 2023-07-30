@@ -5,7 +5,7 @@
 - [>] [[Autômatos, Computabilidade e Complexidade|Autômatos]]
 - [>] [[Álgebra Linear]]
 
-- [ ] [[Controle de faltas]]
+- [*] [[Controle de faltas]]
 
 # Schedule
 
