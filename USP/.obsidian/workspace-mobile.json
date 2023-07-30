@@ -63,8 +63,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Controle de faltas.md",
                 "mode": "source",
+=======
+                "file": "-MAC0338 Análise/oie.md",
+                "mode": "preview",
+>>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
                 "source": false
               }
             }
@@ -117,7 +122,11 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+<<<<<<< HEAD
             "file": "Controle de faltas.md",
+=======
+            "file": "-MAC0338 Análise/oie.md",
+>>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +138,11 @@
         "state": {
           "type": "outline",
           "state": {
+<<<<<<< HEAD
             "file": "Controle de faltas.md"
+=======
+            "file": "-MAC0338 Análise/oie.md"
+>>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
           }
         }
       },
@@ -139,7 +152,11 @@
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
             "file": "Controle de faltas.md",
+=======
+            "file": "-MAC0338 Análise/oie.md",
+>>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,20 +172,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+<<<<<<< HEAD
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false
+=======
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+>>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
     }
   },
   "active": "cb846883ddbf4619",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "BCC USP.md",
     "Controle de faltas.md",
     "_MAC0338 Análise/Análise de Algoritmos.md",
     "_MAC0338 Análise/olaa.md",
     "-MAC0338 Análise/Análise de Algoritmos.md",
+=======
+    "-MAC0338 Análise/Análise de Algoritmos.md",
+    "BCC USP.md",
+>>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
     "Análise de Algoritmos.md"
   ]
 }

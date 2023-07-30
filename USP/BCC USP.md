@@ -1,14 +1,11 @@
 # 2023.2 courses
-alterandooo
-
 - [>] [[Análise de Algoritmos|Análise]]
 - [>] [[Conceitos Fundamentais de Linguagens de Programação|Conceitos]]
 - [>] [[Geologia Geral|Pedrinhas]]
 - [>] [[Autômatos, Computabilidade e Complexidade|Autômatos]]
 - [>] [[Álgebra Linear]]
 
----
-- [*] [[Controle de faltas]]
+- [ ] [[Controle de faltas]]
 
 # Schedule
 
