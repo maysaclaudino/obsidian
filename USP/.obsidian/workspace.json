@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
-                "mode": "preview",
+                "file": "BCC USP.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,7 +31,7 @@
       {
         "id": "b38616215b65fd27",
         "type": "tabs",
-        "dimension": 48.36309523809524,
+        "dimension": 48.363095238095234,
         "children": [
           {
             "id": "0652afb2528a23b1",
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAC0338 Análise/Análise de Algoritmos.md"
+                "file": "BCC USP.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
+                "file": "BCC USP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
+                "file": "BCC USP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0652afb2528a23b1",
+  "active": "6d8990deec8d03eb",
   "lastOpenFiles": [
     "BCC USP.md",
     "Home.md",
