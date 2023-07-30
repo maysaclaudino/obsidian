@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BCC USP.md",
-                "mode": "source",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BCC USP.md"
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCC USP.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BCC USP.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

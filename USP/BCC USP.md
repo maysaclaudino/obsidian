@@ -7,8 +7,6 @@
 
 - [*] [[Controle de faltas]]
 
-oie
-
 # Schedule
 
 |       |             _seg_             |                          _ter_                           |                               _qua_                                |                          _qui_                           |                               _sex_                                |
