@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "9f9d2decf1cfb147",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5c95bb11fa5009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ba0715310644f56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "6ccf83031c8a4094"
+          }
+        ]
+      },
+      {
+        "id": "1c24173eb3f47884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc946aeb635f7c7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.9987749710342213,
+                  "close": true
+                }
+              }
+            },
+            "group": "6ccf83031c8a4094"
+          },
+          {
+            "id": "cb846883ddbf4619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controle de faltas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b8a5963e615b040",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "058f9e8b4b2c847d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ab9f600a5469dee8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1c2ace0da2248917",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b2a3582dbe82d816",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Controle de faltas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bb8cacc272432172",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Controle de faltas.md"
+          }
+        }
+      },
+      {
+        "id": "aa7f018e57d6ad00",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Controle de faltas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "cb846883ddbf4619",
+  "lastOpenFiles": [
+    "BCC USP.md",
+    "Controle de faltas.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_MAC0338 Análise/olaa.md",
+    "-MAC0338 Análise/Análise de Algoritmos.md",
+    "Análise de Algoritmos.md"
+  ]
+}

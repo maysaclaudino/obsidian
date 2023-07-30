@@ -1,0 +1,10 @@
+{
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ],
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": false,
+  "promptDelete": false
+}

@@ -1,0 +1,25 @@
+# 2023.2 courses
+alterandooo
+
+- [>] [[Análise de Algoritmos|Análise]]
+- [>] [[Conceitos Fundamentais de Linguagens de Programação|Conceitos]]
+- [>] [[Geologia Geral|Pedrinhas]]
+- [>] [[Autômatos, Computabilidade e Complexidade|Autômatos]]
+- [>] [[Álgebra Linear]]
+
+---
+- [*] [[Controle de faltas]]
+
+# Schedule
+
+|       |             _seg_             |                          _ter_                           |                               _qua_                                |                          _qui_                           |                               _sex_                                |
+| ----- |:-----------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------:|
+| 08:00 | [[Geologia Geral\|Pedrinhas]] |                                                          |                                                                    |            [[Análise de Algoritmos\|Análise]]            | [[Conceitos Fundamentais de Linguagens de Programação\|Conceitos]] |
+| 10:00 | [[Geologia Geral\|Pedrinhas]] |            [[Análise de Algoritmos\|Análise]]            | [[Conceitos Fundamentais de Linguagens de Programação\|Conceitos]] |                                                          |                                                                    |
+| 12:00 |                               |                                                          |                                                                    |                                                          |                                                                    |
+| 14:00 |                               |                                                          |                                                                    | [[Autômatos, Computabilidade e Complexidade\|Autômatos]] |                                                                    |
+| 16:00 |                               | [[Autômatos, Computabilidade e Complexidade\|Autômatos]] |                                                                    |                                                          |                                                                    |
+| 18:00 |                               |                                                          |                                                                    |                                                          |                                                                    |
+| 19:30 |                               |                    [[Álgebra Linear]]                    |                                                                    |                                                          |                                                                    |
+| 21:20 |                               |                                                          |                                                                    |                    [[Álgebra Linear]]                    |                                                                    |
+
