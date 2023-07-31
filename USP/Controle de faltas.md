@@ -1,6 +1,6 @@
 ## [[Análise de Algoritmos]]
 
-36 aulas, **10 faltas**
+35 aulas, **10 faltas**
 - [ ] **1** faltei dia:
 - [ ] **2** faltei dia:
 - [ ] **3** faltei dia:
@@ -15,7 +15,7 @@
 
 ## [[Conceitos Fundamentais de Linguagens de Programação]]
 
-34 aulas, **10 faltas**
+33 aulas, **9 faltas**
 - [ ] **1** faltei dia:
 - [ ] **2** faltei dia:
 - [ ] **3** faltei dia:
@@ -25,11 +25,10 @@
 - [ ] **7** faltei dia:
 - [ ] **8** faltei dia:
 - [ ] **9** faltei dia:
-- [ ] **10** faltei dia:
 
 ## [[Autômatos, Computabilidade e Complexidade]]
 
-36 aulas, **10 faltas**
+35 aulas, **10 faltas**
 - [ ] **1** faltei dia:
 - [ ] **2** faltei dia:
 - [ ] **3** faltei dia:
@@ -43,7 +42,7 @@
 
 ## [[Geologia Geral]]
 
-18 aulas, **5 faltas**
+17 aulas, **5 faltas**
 - [ ] **1** faltei dia:
 - [ ] **2** faltei dia:
 - [ ] **3** faltei dia:
@@ -52,7 +51,7 @@
 
 ## [[Álgebra Linear]]
 
-36 aulas, **10 faltas**
+35 aulas, **10 faltas**
 - [ ] **1** faltei dia:
 - [ ] **2** faltei dia:
 - [ ] **3** faltei dia:
