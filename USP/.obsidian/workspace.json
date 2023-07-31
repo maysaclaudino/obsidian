@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+                "file": "BCC USP.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md"
+                "file": "BCC USP.md"
               }
             }
           }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "18a0bf8f32db3bbe",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+                "file": "BCC USP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+                "file": "BCC USP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Obsidian Forum": false,
       "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
@@ -156,8 +156,9 @@
   },
   "active": "c0d2e96f42733c78",
   "lastOpenFiles": [
-    "_0440620 Pedrinhas/Geologia Geral.md",
+    "Controle de faltas.md",
     "BCC USP.md",
+    "_0440620 Pedrinhas/Geologia Geral.md",
     "_MAT3211 Algelin/Álgebra Linear.md",
     "Templates/aula-algelin.md",
     "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
@@ -173,7 +174,6 @@
     "_MAC0316 Conceitos",
     "_MAC0338 Análise/Análise de Algoritmos.md",
     "Templates/desktop.ini",
-    "Controle de faltas.md",
     "_MAC0338 Análise/ok.md",
     "_MAC0338 Análise/err.md",
     "eiii.md",

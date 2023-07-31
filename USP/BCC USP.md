@@ -1,4 +1,4 @@
-# 2023.2 courses
+## 2023.2 courses
 - [>] [[Análise de Algoritmos|Análise]]
 - [>] [[Conceitos Fundamentais de Linguagens de Programação|Conceitos]]
 - [>] [[Geologia Geral|Pedrinhas]]
@@ -7,9 +7,9 @@
 
 - [*] [[Controle de faltas]]
 
-# Schedule
+## Schedule
 
-|       |             _seg_             |                          _ter_                           |                               _qua_                                |                          _qui_                           |                               _sex_                                |
+|       |            **seg**            |                         **ter**                          |                              **qua**                               |                         **qui**                          |                              **sex**                               |
 | ----- |:-----------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------------:|
 | 08:00 | [[Geologia Geral\|Pedrinhas]] |                                                          |                                                                    |            [[Análise de Algoritmos\|Análise]]            | [[Conceitos Fundamentais de Linguagens de Programação\|Conceitos]] |
 | 10:00 | [[Geologia Geral\|Pedrinhas]] |            [[Análise de Algoritmos\|Análise]]            | [[Conceitos Fundamentais de Linguagens de Programação\|Conceitos]] |                                                          |                                                                    |
