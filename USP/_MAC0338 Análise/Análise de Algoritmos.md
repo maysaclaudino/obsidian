@@ -13,6 +13,18 @@ SORT date ASC
 **Sigla:** MAC0338
 **Moodle:** [Aqui](moodle.com)
 
+## Datas
+
+### Provas
+- [!] **P1:** 12/05
+- [!] **P2:** 05/07
+- [!] **Psub:** 12/07
+
+### EP's
+- [*] **EP1:** 12/05
+- [*] **EP2:** 12/05
+- [*] **EP3:** 12/05
+
 ## Monitorias
 
 - Filipe Tressmann Velozo: filipetressmann@usp.br  
@@ -20,14 +32,6 @@ SORT date ASC
 - Marcelo Machado Lage: marcelomlage@usp.br
 
 _Horário da monitoria_: segundas e quartas: de 13h às 14h na sala B03
-
-## Datas
-
-| **Prova** | **Data** |     | **EP** | **Data** |
-| --------- | -------- | --- | ------ | ------ |
-| P1        | 12/05    |     | P1     | 12/05  |
-| P2        | 05/07    |     | P2     | 05/07  |
-| Psub      | 12/07    |     | P3     | 12/07  |
 
 ## Critério de avaliação
 

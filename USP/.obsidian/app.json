@@ -6,5 +6,6 @@
   "showInlineTitle": true,
   "newFileLocation": "current",
   "alwaysUpdateLinks": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false
 }
