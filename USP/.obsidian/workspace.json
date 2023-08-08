@@ -8,7 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93269e032937d8ae",
+            "id": "c0d2e96f42733c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BCC USP.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "4b992e1115de557c"
+          }
+        ]
+      },
+      {
+        "id": "34d26eb28228666c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6427e0da73fda188",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,7 +36,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "4b992e1115de557c"
           }
         ]
       }
@@ -145,25 +165,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Google Calendar": true,
       "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-custom-frames:Open Google Calendar": true,
       "templates:Insert template": true,
       "hide-folders:Show hidden folders": true
     }
   },
-  "active": "93269e032937d8ae",
+  "active": "6427e0da73fda188",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+>>>>>>> origin/main
     "BCC USP.md",
+    "_MAT3211 Algelin/desktop.ini",
+    "_MAC0414 Autômatos/desktop.ini",
+    "_MAC0316 Conceitos/desktop.ini",
+    "_0440620 Pedrinhas/desktop.ini",
+    "Controle de faltas.md",
     "_0440620 Pedrinhas/Geologia Geral.md",
     "_MAC0338 Análise/Análise de Algoritmos.md",
     "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
     "Controle de faltas.md",
     "_MAT3211 Algelin/Álgebra Linear.md",
     "Templates/aula-algelin.md",
-    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
     "Templates/aula-autômatos.md",
     "Templates/aula-pedrinhas.md",
     "_MAT3211 Algelin",
@@ -182,16 +210,12 @@
     "_MAC0338 Análise/oie.md",
     "Templates",
     "olaa.md",
-    "_MAC0338 Análise",
-    "Datas",
     "21-03-2023.md",
     "Análise de algoritmos.md",
     "MAC0326 Algoritmos.md",
     "Untitled.canvas",
     "Pasted image 20230723102829.png",
     "Pasted image 20230723102230.png",
-    "Context/spacesLastSync.log",
-    "Context",
     "21/03/2023.md",
     "MAC0209 Modelagem.md"
   ]
