@@ -1,91 +1,35 @@
 {
   "main": {
-    "id": "9f9d2decf1cfb147",
+    "id": "a0ea14ce6703e413",
     "type": "split",
     "children": [
       {
-        "id": "5e5c95bb11fa5009",
+        "id": "f993f7e49e19eaec",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba0715310644f56",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "6ccf83031c8a4094"
-          }
-        ]
-      },
-      {
-        "id": "1c24173eb3f47884",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8bc946aeb635f7c7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.9987749710342213,
-                  "close": true
-                }
-              }
-            },
-            "group": "6ccf83031c8a4094"
-          },
-          {
-            "id": "cb846883ddbf4619",
+            "id": "962b03e249b25386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Controle de faltas.md",
+                "file": "_0440620 Pedrinhas/Geologia Geral.md",
                 "mode": "source",
-=======
-                "file": "-MAC0338 Análise/oie.md",
-                "mode": "preview",
->>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0b8a5963e615b040",
+    "id": "3eb810a1723b4798",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "058f9e8b4b2c847d",
+        "id": "3a848b52f1a1e7c9",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -95,7 +39,7 @@
         }
       },
       {
-        "id": "ab9f600a5469dee8",
+        "id": "6945a011f854e80c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -113,50 +57,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "1c2ace0da2248917",
+    "id": "769fe2b06668c5fb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b2a3582dbe82d816",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-<<<<<<< HEAD
-            "file": "Controle de faltas.md",
-=======
-            "file": "-MAC0338 Análise/oie.md",
->>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "bb8cacc272432172",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-<<<<<<< HEAD
-            "file": "Controle de faltas.md"
-=======
-            "file": "-MAC0338 Análise/oie.md"
->>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
-          }
-        }
-      },
-      {
-        "id": "aa7f018e57d6ad00",
+        "id": "c157d93c68cd4672",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-<<<<<<< HEAD
-            "file": "Controle de faltas.md",
-=======
-            "file": "-MAC0338 Análise/oie.md",
->>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
+            "file": "_0440620 Pedrinhas/Geologia Geral.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,37 +76,44 @@
             "unlinkedCollapsed": true
           }
         }
+      },
+      {
+        "id": "2e0bc9a895c9e0d0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_0440620 Pedrinhas/Geologia Geral.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "428e0902ebdf785f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_0440620 Pedrinhas/Geologia Geral.md"
+          }
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-<<<<<<< HEAD
-      "templates:Insert template": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
-=======
+      "homepage:Open homepage": false,
+      "hide-folders:Show hidden folders": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
->>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cb846883ddbf4619",
+  "active": "962b03e249b25386",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "BCC USP.md",
-    "Controle de faltas.md",
-    "_MAC0338 Análise/Análise de Algoritmos.md",
-    "_MAC0338 Análise/olaa.md",
-    "-MAC0338 Análise/Análise de Algoritmos.md",
-=======
-    "-MAC0338 Análise/Análise de Algoritmos.md",
-    "BCC USP.md",
->>>>>>> ac29fda23af9636c6f09e0158eca22d28af121e4
-    "Análise de Algoritmos.md"
+    "BCC USP.md"
   ]
 }

@@ -42,12 +42,11 @@
 
 ## [[Geologia Geral]]
 
-17 aulas, **5 faltas**
+15 aulas, **4 faltas**
 - [ ] **1** faltei dia:
 - [ ] **2** faltei dia:
 - [ ] **3** faltei dia:
 - [ ] **4** faltei dia:
-- [ ] **5** faltei dia:
 
 ## [[Álgebra Linear]]
 

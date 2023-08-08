@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BCC USP.md",
+                "file": "Controle de faltas.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BCC USP.md"
+                "file": "Controle de faltas.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCC USP.md",
+                "file": "Controle de faltas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BCC USP.md",
+                "file": "Controle de faltas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +156,11 @@
   },
   "active": "93269e032937d8ae",
   "lastOpenFiles": [
-    "Controle de faltas.md",
     "BCC USP.md",
     "_0440620 Pedrinhas/Geologia Geral.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
+    "Controle de faltas.md",
     "_MAT3211 Algelin/Álgebra Linear.md",
     "Templates/aula-algelin.md",
     "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
@@ -167,12 +169,10 @@
     "_MAT3211 Algelin",
     "_MAC0414 Autômatos",
     "_0440620 Pedrinhas",
-    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
     "Templates/aula-conceitos.md",
     "Templates/matéria.md",
     "Templates/aula-análise.md",
     "_MAC0316 Conceitos",
-    "_MAC0338 Análise/Análise de Algoritmos.md",
     "Templates/desktop.ini",
     "_MAC0338 Análise/ok.md",
     "_MAC0338 Análise/err.md",
