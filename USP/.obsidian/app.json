@@ -2,7 +2,7 @@
   "spellcheckLanguages": null,
   "showInlineTitle": true,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showLineNumber": false
 }

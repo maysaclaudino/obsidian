@@ -4,7 +4,9 @@
 TABLE
 	date AS Data
 WHERE course = "MAT3211" AND file.name != "aula-algelin"
-SORT date ASC
+SORT
+	date ASC,
+	ordem ASC
 ```
 
 
