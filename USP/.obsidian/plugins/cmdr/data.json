@@ -7,14 +7,7 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "obsidian-git:backup-and-close",
-      "icon": "x-circle",
-      "name": "Create backup and close",
-      "mode": "any"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [
     {
       "id": "quickadd:runQuickAdd",
