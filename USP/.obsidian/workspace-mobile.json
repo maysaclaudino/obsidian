@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAT3211 Algelin/Números.md",
+                "file": "BCC USP.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -66,7 +66,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_MAT3211 Algelin/Números.md",
+            "file": "BCC USP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -83,7 +83,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_MAT3211 Algelin/Números.md",
+            "file": "BCC USP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -95,7 +95,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_MAT3211 Algelin/Números.md"
+            "file": "BCC USP.md"
           }
         }
       }
@@ -116,6 +116,7 @@
   "lastOpenFiles": [
     "_MAT3211 Algelin/Álgebra Linear.md",
     "BCC USP.md",
+    "_MAT3211 Algelin/Números.md",
     "_0440620 Pedrinhas/Geologia Geral.md"
   ]
 }

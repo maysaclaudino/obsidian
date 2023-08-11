@@ -11,15 +11,48 @@
             "id": "1a6a63861fa24934",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5ba1308c6467faf",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "BCC USP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7cb2915a604f170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MAC0414 Autômatos/Autômatos finitos.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f79680d72b715988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MAC0414 Autômatos/Linguagem regular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +64,7 @@
       {
         "id": "2c990809c4fc68e8",
         "type": "tabs",
-        "dimension": 46.13095238095239,
+        "dimension": 49.702380952380956,
         "children": [
           {
             "id": "9625fce729112ff9",
@@ -63,7 +96,7 @@
       {
         "id": "bffc84a83015aa93",
         "type": "tabs",
-        "dimension": 53.86904761904761,
+        "dimension": 50.297619047619044,
         "children": [
           {
             "id": "7221ad221373d5f6",
@@ -118,9 +151,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "13955a88c56019ca",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-keep",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2927565e97e267e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,20 +184,24 @@
       "hide-folders:Show hidden folders": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-custom-frames:Open Google Keep": false
     }
   },
-  "active": "1a6a63861fa24934",
+  "active": "c5ba1308c6467faf",
   "lastOpenFiles": [
+    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+    "_MAC0414 Autômatos/Autômatos finitos.md",
+    "_MAC0414 Autômatos/Linguagem regular.md",
     "BCC USP.md",
-    "_MAT3211 Algelin/Corpos.md",
-    "_MAT3211 Algelin/Álgebra Linear.md",
-    "_MAT3211 Algelin/Números.md",
     "Templates/aula-pedrinhas.md",
     "Templates/aula-conceitos.md",
     "Templates/aula-autômatos.md",
     "Templates/aula-análise.md",
     "Templates/aula-algelin.md",
+    "_MAT3211 Algelin/Corpos.md",
+    "_MAT3211 Algelin/Álgebra Linear.md",
+    "_MAT3211 Algelin/Números.md",
     "_0440620 Pedrinhas/Geologia.md",
     "_0440620 Pedrinhas/Geologia Geral.md",
     "Pasted image 20230808202823.png",

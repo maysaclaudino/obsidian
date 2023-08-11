@@ -12,7 +12,7 @@ ordem: 1
 Em $\mathbb{R}$ temos duas operações $+$ e $\cdot$
 $$
 \begin{align}
-+:& \text{  } \mathbb{R}\times \mathbb{R}\implies \mathbb{R} \\
++:& \text{  } \mathbb{R}\times \mathbb{R} \mapsto \mathbb{R} \\
 &(a,b)\mapsto +(a,b)\coloneqq a+b \\
 \\
 \cdot: & \text{  }\mathbb{R} \times \mathbb{R} \mapsto \mathbb{R} \\
@@ -21,19 +21,19 @@ $$
 $$
 
 ## Definição de Corpo
-Seja $F$ um conjunto com duas operações $+$ e $\cdot$, isto é
+Seja $F$ um conjunto com duas operações $+$ e $\cdot$, isto é, são funções denotadas por:
 $$
 \begin{align}
-+:& \text{  } F \times F \implies F \\
++:& \text{  } F \times F \mapsto F \\
 &(a,b)\mapsto +(a,b) \coloneqq a+b \\
 \\
 \cdot: & \text{  }F \times F \mapsto F \\
 	 & (a,b) \mapsto \cdot (a,b) \coloneqq ab
 \end{align}
 $$
-Então $(F, +, \cdot)$ é um corpo de valores:
+Dizemos que a terna $(F, +, \cdot)$ é um corpo se valem os axiomas:
 ### Axiomas da Adição
-#### Associativa
+#### A1 Associativa
 $$
 \begin{align}
 (a+b)+c=a+(b+c) \\
@@ -41,7 +41,7 @@ $$
 \end{align}
 $$
 
-#### Comutativa
+#### A2 Comutativa
 $$
 \begin{align}
 a+b=b+a \\
@@ -49,7 +49,7 @@ a+b=b+a \\
 \end{align}
 $$
 
-#### Elemento Neutro
+#### A3 Elemento Neutro
 $$
 \begin{align}
 \exists e \in \mathbb{R} \text{ tq. } a+e=0 \\
@@ -57,7 +57,7 @@ $$
 \end{align}
 $$
 
-#### Elemento Oposto
+#### A4 Elemento Oposto
 $$
 \begin{align}
 \forall a  & \in F \\
@@ -67,7 +67,7 @@ a+b & =0
 $$
 
 ### Axiomas da Multiplicação
-#### Associativa
+#### M1 Associativa
 $$
 \begin{align}
 (ab)c=a(bc) \\
@@ -75,7 +75,7 @@ $$
 \end{align}
 $$
 
-#### Comutativa
+#### M2 Comutativa
 $$
 \begin{align}
 ab=ba \\
@@ -83,7 +83,7 @@ ab=ba \\
 \end{align}
 $$
 
-#### Elemento Unidade
+#### M3 Elemento Unidade
 $$
 \begin{align}
 \exists f \in F, f\neq e \text{ tq. }  \\
@@ -92,7 +92,7 @@ a\cdot f=a \\
 \end{align}
 $$
 
-#### Inverso
+#### M4 Inverso
 $$
 \begin{align}
 \forall a  & \in F, a \neq 0 \\
@@ -101,7 +101,7 @@ aa' & =f
 \end{align}
 $$
 
-#### Distributiva
+### Distributiva
 $$
 \begin{align}
 a(b+c)=ab+ac \\

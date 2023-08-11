@@ -20,18 +20,14 @@ SORT date ASC
 - [!] **P2:** 19/11
 - [!] **P3:** 07/12
 
-### EP's
-- [*] **EP1:** 
-- [*] **EP2:** 
-- [*] **EP3:** 
-
 ## Monitorias
 
-- Carlos: 
-- Henri: 
-- João: 
-
-_Horário da monitoria_: 
+- Carlos: carlos.albmr@usp.br
+	- **Telegram** @carlosmarquesr
+- Henri: henrimichel@usp.br
+	- **Telegram** @henrimichel12
+- João Guilherme: guilherme_alves16@usp.br 
+	- **Telegram** @alvesjg
 
 ## Critério de avaliação
 
