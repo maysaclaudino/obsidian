@@ -113,6 +113,48 @@ $$
 - Dá para provar que o oposto e o inverso são únicos.
 	- **Notação:** $b=-a$ e $a'=a^{-1}$
 
----
->[!example] Próximo tópico
->
+## Exemplos
+1. Racionais ($\mathbb{Q}$)
+2. Reais ($\mathbb{R}$)
+3. Complexos ($\mathbb{C}$)
+
+### $Z_{m}$
+$Z_{m}=\{ 0,1,2,\dots,m-1 \}$, onde $m\in\mathbb{Z}$ e $m\geq 1$
+
+São os restos da divisão de um inteiro por $m$.
+
+Definimos em $Z_{m}$
+-  $a \hat{+}b=r$ , onde $r$ é o resto da divisão de $ab$ por $m$
+- $a \hat{\cdot}b=s$ , onde $s$ é o resto da divisão de $ab$ por $m$
+
+Aqui estamos usando o algoritmo da divisão
+- Sejam $a,b\in\mathbb{Z}$, $b\neq 0$. Existem $q,r\in\mathbb{Z}$, únicos tais que
+	- $a=bq+r$ , onde $0\leq r\leq |b|$
+
+**Exemplos:**
+$$
+Z_{2}=\{ 0,1 \}
+$$
+
+| $\hat{+}$ | _0_ | _1_ |     | $\hat{\cdot}$ | _0_ | _1_ |
+| --------- | --- | --- | --- | ------------- | --- | --- |
+| _0_       | 0   | 1   |     | _0_           | 0   | 0   |
+| _1_       | 1   | 0   |     | _1_           | 0   | 1    |
+
+$$
+Z_{4}=\{ 0,1,2,3 \}
+$$
+
+| $\hat{+}$ | _0_ | _1_ | _2_ | _3_ |     | $\hat{\cdot}$ | _0_ | _1_ | _2_ | _3_ |
+| --------- | --- | --- | --- | --- | --- | ------------- | --- | --- | --- | --- |
+| _0_       | 0   | 1   | 2   | 3   |     | _0_           | 0   | 0   | 0   | 0   |
+| _1_       | 1   | 2   | 3   | 0   |     | _1_           | 0   | 1   | 2   | 3   |
+| _2_       | 2   | 3   | 0   | 1   |     | _2_           | 0   | 2   | 0   | 2   |
+| _3_       | 3   | 0   | 1   | 2   |     | _3_           | 0   | 3   | 2   | 1    |
+
+- $2$ é um divisor de zero
+- $1^{-1}=1$
+- $3^{-1}=3$
+- $2$ não tem inverso, por isso $Z_{4}$ não é um corpo
+
+- [*] $(Z_{m},+,\cdot)$ é um corpo se e somente se $m$ é um número primo. 

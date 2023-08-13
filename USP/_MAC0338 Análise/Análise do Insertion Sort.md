@@ -1,6 +1,7 @@
 ---
-date: 2023-08-11
+date: 2023-08-08
 course: "MAC0338"
+ordem: 1
 ---
 **Matéria:** [[Análise de Algoritmos]]
 
@@ -62,10 +63,20 @@ Logo, temos:
 | 7         | $n-1$             |
 | **total** | $\leq2n^{2}+3n-3$        | 
 
-## $n^{2}+3n-3$ vs. $n^{2}$
+## Consumo por tempo
+Se a execução de cada linha de código consome **1 unidade** de tempo, qual o consumo total?
 
+| linha     | todas as execuções da linha             |
+| --------- | --------------------------------------- |
+| 1         | $=n$                                    |
+| 2         | $=n-1$                                  |
+| 3         | $=n-1$                                  |
+| 4         | $\leq 1+3+\dots+n=\frac{(n-1)(n+2)}{2}$ |
+| 5         | $\leq 1+2+\dots+(n-1)=\frac{n(n-1)}{2}$ |
+| 6         | $\leq 1+2+\dots+(n=1)=\frac{n(n-1)}{2}$ |
+| 7         | $=n-1$                                  |
+| **total** | $\leq \frac{3}{2}n^{2}+\frac{7}{2}n-4$                                        |
 
-a
-
+---
 >[!example] Próximo:
 >

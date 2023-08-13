@@ -2,11 +2,13 @@
 
 ```dataview
 TABLE
-	date AS Data
+	date AS Data,
+	ordem AS Ordem
 WHERE course = "MAC0338" AND file.name != "aula-análise"
-SORT date ASC
+SORT
+	date ASC,
+	ordem ASC
 ```
-
 
 # Informações da matéria
 

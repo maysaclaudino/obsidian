@@ -28,6 +28,8 @@ $$
 $$
 - Representação gráfica $a+bi=c+di \iff a=c \text{ e } b=d$
 
+![](https://i.imgur.com/2sRUBP6.png)
+---
 >[!example] Próximo tópico
 >[[Corpos]]
 

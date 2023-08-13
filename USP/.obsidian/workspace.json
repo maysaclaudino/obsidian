@@ -4,55 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "29eb178ea5de188e",
+        "id": "9959144faf216435",
         "type": "tabs",
         "children": [
           {
-            "id": "1a6a63861fa24934",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5ba1308c6467faf",
+            "id": "6e43c08d4fd73019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
+                "file": "_MAT3211 Algelin/Corpos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d78be1e812b318d",
+            "id": "3c349f35f442091c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0338 Análise/Análise do Insertion Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f79680d72b715988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_MAC0414 Autômatos/Linguagem regular.md",
+                "file": "_MAT3211 Algelin/Espaço vetorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +44,7 @@
       {
         "id": "2c990809c4fc68e8",
         "type": "tabs",
-        "dimension": 49.702380952380956,
+        "dimension": 70.23809523809523,
         "children": [
           {
             "id": "9625fce729112ff9",
@@ -96,7 +76,7 @@
       {
         "id": "bffc84a83015aa93",
         "type": "tabs",
-        "dimension": 50.297619047619044,
+        "dimension": 29.761904761904763,
         "children": [
           {
             "id": "7221ad221373d5f6",
@@ -104,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAC0338 Análise/Análise do Insertion Sort.md"
+                "file": "_MAT3211 Algelin/Espaço vetorial.md"
               }
             }
           }
@@ -129,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAC0338 Análise/Análise do Insertion Sort.md",
+                "file": "_MAT3211 Algelin/Espaço vetorial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAC0338 Análise/Análise do Insertion Sort.md",
+                "file": "_MAT3211 Algelin/Espaço vetorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,25 +165,40 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-custom-frames:Open Google Keep": false
+      "obsidian-custom-frames:Open Google Keep": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d78be1e812b318d",
+  "active": "3c349f35f442091c",
   "lastOpenFiles": [
-    "_MAC0338 Análise/Análise de Algoritmos.md",
-    "_MAC0338 Análise/Análise do Insertion Sort.md",
+    "_MAT3211 Algelin/Corpos.md",
+    "_MAT3211 Algelin/Espaço vetorial.md",
+    "_MAT3211 Algelin/Álgebra Linear.md",
     "BCC USP.md",
-    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
-    "_MAC0414 Autômatos/Autômatos finitos.md",
+    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
+    "_MAC0316 Conceitos/Linguística de Programação.md",
     "_MAC0414 Autômatos/Linguagem regular.md",
+    "_MAC0338 Análise/Notação assintótica.md",
+    "_MAC0414 Autômatos/slides/aula01_organized.pdf",
+    "_MAC0414 Autômatos/slides/Não confirmado 342133.crdownload",
+    "_MAC0414 Autômatos/slides",
+    "_MAC0414 Autômatos/Nova pasta",
+    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
     "Templates/aula-pedrinhas.md",
     "Templates/aula-conceitos.md",
     "Templates/aula-autômatos.md",
-    "Templates/aula-análise.md",
     "Templates/aula-algelin.md",
-    "_MAT3211 Algelin/Corpos.md",
-    "_MAT3211 Algelin/Álgebra Linear.md",
+    "Templates/aula-análise.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_MAC0338 Análise/Notação Theta.md",
+    "_MAC0338 Análise/Notação Omega.md",
+    "_MAC0338 Análise/Notação O Grande.md",
+    "_MAC0338 Análise/slides/aula02_organized.pdf",
+    "_MAC0338 Análise/slides",
+    "_MAC0338 Análise/slides/aula02.pdf",
+    "_MAC0338 Análise/Análise do Insertion Sort.md",
     "_MAT3211 Algelin/Números.md",
+    "_MAC0414 Autômatos/Autômatos finitos.md",
     "_0440620 Pedrinhas/Geologia.md",
     "_0440620 Pedrinhas/Geologia Geral.md",
     "Pasted image 20230808202823.png",
