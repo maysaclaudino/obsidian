@@ -25,7 +25,8 @@ SORT date ASC
 
 ## Monitorias
 
-- Monitor: email
+- Ariana (ariana.quispep@ime.usp.br)
+- Thiago (thilio@ime.usp.br)
 
 _Horário da monitoria_: 
 
