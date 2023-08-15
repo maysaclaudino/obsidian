@@ -1,7 +1,7 @@
 ---
 date: 2023-08-11
 course: "MAC0414"
-ordem: 1
+ordem: 0
 annotation-target: slides/aula01_organized.pdf
 ---
 **Matéria:** [[Autômatos, Computabilidade e Complexidade]]

@@ -2,9 +2,12 @@
 
 ```dataview
 TABLE
-	date AS Data
-WHERE course = "Conceitos Fundamentais de Linguagens de Programação" AND file.name != "aula-conceitos"
-SORT date ASC
+	date AS Data,
+	ordem AS Ordem
+WHERE course = "MAC0316" AND file.name != "aula-conceitos"
+SORT
+	date ASC,
+	ordem ASC
 ```
 
 

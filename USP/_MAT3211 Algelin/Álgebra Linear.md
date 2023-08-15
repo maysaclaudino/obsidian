@@ -2,7 +2,8 @@
 
 ```dataview
 TABLE
-	date AS Data
+	date AS Data,
+	ordem AS Ordem
 WHERE course = "MAT3211" AND file.name != "aula-algelin"
 SORT
 	date ASC,

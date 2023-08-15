@@ -1,7 +1,7 @@
 ---
 date: 2023-08-10
 course: "MAC0338"
-ordem: 4
+ordem: 3
 annotation-target: slides/aula02_organized.pdf
 ---
 **Matéria:** [[Análise de Algoritmos]]

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e43c08d4fd73019",
+            "id": "7380ee50e7c8ec82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAT3211 Algelin/Corpos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c349f35f442091c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_MAT3211 Algelin/Espaço vetorial.md",
+                "file": "_0440620 Pedrinhas/Geologia Geral.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +31,7 @@
       {
         "id": "2c990809c4fc68e8",
         "type": "tabs",
-        "dimension": 70.23809523809523,
+        "dimension": 70.23809523809524,
         "children": [
           {
             "id": "9625fce729112ff9",
@@ -76,7 +63,7 @@
       {
         "id": "bffc84a83015aa93",
         "type": "tabs",
-        "dimension": 29.761904761904763,
+        "dimension": 29.761904761904766,
         "children": [
           {
             "id": "7221ad221373d5f6",
@@ -84,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAT3211 Algelin/Espaço vetorial.md"
+                "file": "_0440620 Pedrinhas/Geologia Geral.md"
               }
             }
           }
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAT3211 Algelin/Espaço vetorial.md",
+                "file": "_0440620 Pedrinhas/Geologia Geral.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAT3211 Algelin/Espaço vetorial.md",
+                "file": "_0440620 Pedrinhas/Geologia Geral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,40 +156,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3c349f35f442091c",
+  "active": "7380ee50e7c8ec82",
   "lastOpenFiles": [
-    "_MAT3211 Algelin/Corpos.md",
-    "_MAT3211 Algelin/Espaço vetorial.md",
-    "_MAT3211 Algelin/Álgebra Linear.md",
+    "_0440620 Pedrinhas/Sistema Solar.md",
+    "_0440620 Pedrinhas/Geologia Geral.md",
+    "_0440620 Pedrinhas/Estrelas.md",
     "BCC USP.md",
+    "_0440620 Pedrinhas/Universo.md",
+    "_0440620 Pedrinhas/slides/Aula 2 Slides_sistema_solar.pdf",
+    "_0440620 Pedrinhas/slides/Não confirmado 733890.crdownload",
+    "_0440620 Pedrinhas/slides/Aula 2 Slides_estrelas.pdf",
+    "_0440620 Pedrinhas/slides/Não confirmado 544298.crdownload",
+    "_0440620 Pedrinhas/slides/Aula 2 Slides_universo.pdf",
+    "_0440620 Pedrinhas/slides/Não confirmado 402092.crdownload",
+    "_0440620 Pedrinhas/slides",
+    "_0440620 Pedrinhas/Nova pasta",
+    "_MAT3211 Algelin/Álgebra Linear.md",
+    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
     "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
-    "_MAC0316 Conceitos/Linguística de Programação.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_0440620 Pedrinhas/Geologia.md",
+    "_MAC0414 Autômatos/Autômatos finitos.md",
     "_MAC0414 Autômatos/Linguagem regular.md",
     "_MAC0338 Análise/Notação assintótica.md",
-    "_MAC0414 Autômatos/slides/aula01_organized.pdf",
-    "_MAC0414 Autômatos/slides/Não confirmado 342133.crdownload",
-    "_MAC0414 Autômatos/slides",
-    "_MAC0414 Autômatos/Nova pasta",
-    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
-    "Templates/aula-pedrinhas.md",
-    "Templates/aula-conceitos.md",
-    "Templates/aula-autômatos.md",
-    "Templates/aula-algelin.md",
-    "Templates/aula-análise.md",
-    "_MAC0338 Análise/Análise de Algoritmos.md",
     "_MAC0338 Análise/Notação Theta.md",
     "_MAC0338 Análise/Notação Omega.md",
     "_MAC0338 Análise/Notação O Grande.md",
-    "_MAC0338 Análise/slides/aula02_organized.pdf",
-    "_MAC0338 Análise/slides",
-    "_MAC0338 Análise/slides/aula02.pdf",
     "_MAC0338 Análise/Análise do Insertion Sort.md",
+    "_MAT3211 Algelin/Espaço vetorial.md",
+    "_MAC0316 Conceitos/Linguística de Programação.md",
+    "Templates/aula-algelin.md",
+    "Templates/aula-análise.md",
+    "Templates/aula-autômatos.md",
+    "Templates/aula-conceitos.md",
+    "Templates/aula-pedrinhas.md",
+    "_MAT3211 Algelin/Corpos.md",
+    "_MAC0414 Autômatos/slides/aula01_organized.pdf",
+    "_MAC0414 Autômatos/slides/Não confirmado 342133.crdownload",
     "_MAT3211 Algelin/Números.md",
-    "_MAC0414 Autômatos/Autômatos finitos.md",
-    "_0440620 Pedrinhas/Geologia.md",
-    "_0440620 Pedrinhas/Geologia Geral.md",
     "Pasted image 20230808202823.png",
-    "Pasted image 20230808201500.png",
-    "conflict-files-obsidian-git.md"
+    "Pasted image 20230808201500.png"
   ]
 }

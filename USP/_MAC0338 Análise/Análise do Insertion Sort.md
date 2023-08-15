@@ -1,7 +1,7 @@
 ---
 date: 2023-08-08
 course: "MAC0338"
-ordem: 1
+ordem: 0
 ---
 **Matéria:** [[Análise de Algoritmos]]
 

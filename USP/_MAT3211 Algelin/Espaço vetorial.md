@@ -1,7 +1,7 @@
 ---
 date: 2023-08-10
 course: "MAT3211"
-ordem: 1
+ordem: 0
 ---
 
 **Matéria:** [[Álgebra Linear]]

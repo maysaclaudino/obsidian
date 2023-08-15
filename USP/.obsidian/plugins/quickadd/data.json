@@ -13,8 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "_MAC0338 Análise",
-          ""
+          "_MAC0338 Análise"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -54,7 +53,7 @@
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
-        "focus": true
+        "focus": false
       },
       "openFile": true,
       "openFileInMode": "default",
@@ -74,7 +73,6 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "",
           "_MAC0316 Conceitos"
         ],
         "chooseWhenCreatingNote": false,

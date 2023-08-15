@@ -1,6 +1,7 @@
 ---
 date: 2023-08-07
 course: "0440620"
+ordem: 0
 ---
 **Matéria:** [[Geologia Geral]]
 

@@ -1,6 +1,7 @@
 ---
 date: 2023-08-11
 course: "MAC0316"
+ordem: 0
 ---
 
 **Matéria:** [[Conceitos Fundamentais de Linguagens de Programação]]

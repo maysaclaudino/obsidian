@@ -1,6 +1,7 @@
 ---
 date: 2023-08-08
 course: "MAC0414"
+ordem: 0
 ---
 **Matéria:** [[Autômatos, Computabilidade e Complexidade]]
 
