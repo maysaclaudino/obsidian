@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "41fa68a4ce4f1dd4",
+        "id": "d70d6b7bf9a1a44e",
         "type": "tabs",
         "children": [
           {
-            "id": "30840ea85b972a2b",
+            "id": "d1561cb186482e2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BCC USP.md",
+                "file": "_MAC0414 Autômatos/Linguagem regular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3deebbbf357adb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,12 +70,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "951123d193dc4718",
@@ -78,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md"
+              }
             }
           }
         ]
@@ -126,9 +143,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2352d91e574b47c",
+  "active": "f3deebbbf357adb6",
   "lastOpenFiles": [
+    "_MAC0414 Autômatos/Linguagem regular.md",
+    "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
+    "_MAC0414 Autômatos/aula 15/08.md",
+    "_MAC0414 Autômatos/aula 15",
+    "_MAC0414 Autômatos/slides/aula01_organized.pdf",
+    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
     "BCC USP.md",
+    "_0440620 Pedrinhas/Geologia Geral.md",
     "conflict-files-obsidian-git.md"
   ]
 }

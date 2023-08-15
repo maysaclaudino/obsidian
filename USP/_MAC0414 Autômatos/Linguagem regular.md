@@ -39,8 +39,10 @@ _Página 21_
 ## Concatenação de LR
 _Página 24_
 - A questão é: definir onde acaba $x$ e começa $y$ em $w$
+	- $w=x+y$ 
 - A cada estado de aceite de $A_{1}$ checamos se $A_{2}$ aceita
-	- Se 1 $A_{2}$ aceitar, então aceita $A_{1}\circ A_{2}$
+	- Se 1 $A_{2}$ aceitar, então aceita $A_{1}\circ A_{2}$ 
+	- Alguma hora "padroniza" então basta 1 caso de $A_{2}$ aceitar, todos aceitam
 ### Exemplos
 _Página 28_
 
