@@ -2,62 +2,48 @@
 
 ```dataview
 TABLE
-	date AS Data
+	date AS Data,
+	ordem AS Ordem
 WHERE course = "MAC0338" AND file.name != "aula-análise"
-SORT date ASC
+SORT
+	date ASC,
+	ordem ASC
 ```
-
 
 # Informações da matéria
 
 **Sigla:** MAC0338
-**Moodle:** [Aqui](moodle.com)
+**Moodle:** [Aqui](https://edisciplinas.usp.br/course/view.php?id=112692)
+**Professor:** Marcel K. de Carli Silva (mksilva@ime.usp.br)
 
 ## Datas
 
 ### Provas
-- [!] **P1:** 12/05
-- [!] **P2:** 05/07
-- [!] **Psub:** 12/07
-
-### EP's
-- [*] **EP1:** 12/05
-- [*] **EP2:** 12/05
-- [*] **EP3:** 12/05
+- [!] **P1:** 19/09
+- [!] **P2:** 07/11
+- [!] **P3:** 05/12
+- [!] **PSub:** 12/12 (fechada)
+	- [ ] Exclusivamente para quem tiver uma falta justificada em uma das provas anteriores.  A justificativa deverá ser um atestado médico ou algum outro documento de validade legal.
 
 ## Monitorias
 
-- Filipe Tressmann Velozo: filipetressmann@usp.br  
-- Laís Nuto Rossman: laisnuto@usp.br
-- Marcelo Machado Lage: marcelomlage@usp.br
+- Ariana (ariana.quispep@ime.usp.br)
+- Thiago (thilio@ime.usp.br)
 
-_Horário da monitoria_: segundas e quartas: de 13h às 14h na sala B03
+_Horário da monitoria_: 
 
 ## Critério de avaliação
 
-**Provas e listas**
-MP = $(2*P1 + 3*P2) / 5$
-ME = média ponderadas das listas de exercícios
+### Média de Listas (ML)
+Teremos várias listas de exercícios para que vocês pratiquem seus conhecimentos. Você deverá entregar alguns exercícios selecionados de cada lista (e, naturalmente, **resolver todos**). A média de listas MLML é a média aritmética das notas das listas.
 
-**Média final**
-
-Se $MP >= 5$ e $ME >= 5$,
-	então $MF = (MP + ME) / 2$,
-Senão, $MF = min{MP, ME}$
-
-**Aprovação**
-Se $MF >= 5$, então aprovado;
-Se $3 <= MF < 5$, então recuperação;
-Se $MF < 3,$ então reprovado.
+### Média Final (MF)
+$$MF=\frac{8MP+2ML}{10}$$
 
 ## Bibliografia
 
-1. K. Houston, How to Think Like a Mathematician: A Companion to Undergraduate Mathematics,  
-Cambridge University Press, 2009.  
-2. Richard Hammack, Book of Proof, 3rd ed., Virginia Commonwealth University, 2021. Disponível em [http://www.people.vcu.edu/~rhammack/BookOfProof/](http://www.people.vcu.edu/~rhammack/BookOfProof/)  
-3. E. L. Lima, Números e Funções Reais, Sociedade Brasileira de Matemática, 2013.  
-4. L. Lovász, J. Pelikán e K. Vesztergombi, Matemática Discreta, Sociedade Brasileira de Matemática, 2006.  
-5. S. Oliveira e D. Stewart, Building Proofs: A Practical Guide, World Scientific, 2015.  
-6. D. Solow, How to Read and Do Proofs, Wiley, 2014.  
-7. D. J. Velleman, How to Prove It: A Structured Approach, 2nd ed., Cambridge University Press, 2006.  
-8. J. Cummings, Proofs - A Long-Form Mathematics Textbook, 2021.
+1. _Introduction to Algorithms_ (T.H. Cormen, C.E. Leiserson, R.L. Rivest, and C. Stein)
+2. [Notas de aula do professor Paulo Feofiloff](https://www.ime.usp.br/~pf/analise_de_algoritmos/)
+3. _Algorithms, de Dasgupta_ (Papadimitriou e Vazirani)
+4. _Algorithm Design_ (Kleinberg e Tardos)
+5. [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) (Jeff Erickson)

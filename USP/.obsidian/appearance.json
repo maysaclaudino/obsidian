@@ -4,5 +4,9 @@
   "cssTheme": "Things",
   "showViewHeader": true,
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "center_image",
+    "size_image"
+  ]
 }

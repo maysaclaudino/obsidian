@@ -16,7 +16,7 @@
       "displayName": "Google Keep",
       "icon": "lightbulb",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
+      "addRibbonIcon": true,
       "openInCenter": false,
       "zoomLevel": 1,
       "forceIframe": false,
