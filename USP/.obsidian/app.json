@@ -1,8 +1,5 @@
 {
-  "spellcheckLanguages": [
-    "pt-BR",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "showInlineTitle": true,
   "newFileLocation": "current",
   "alwaysUpdateLinks": false,
