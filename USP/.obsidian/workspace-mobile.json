@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "BCC USP.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,6 +114,7 @@
   },
   "active": "962b03e249b25386",
   "lastOpenFiles": [
+    "_MAT3211 Algelin/Corpos.md",
     "_MAT3211 Algelin/Álgebra Linear.md",
     "BCC USP.md",
     "_MAT3211 Algelin/Números.md",

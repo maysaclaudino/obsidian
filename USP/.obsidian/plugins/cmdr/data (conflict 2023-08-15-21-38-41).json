@@ -27,8 +27,8 @@
   "hide": {
     "statusbar": [
       "editor-status",
-      "hide-folders",
-      "backlink"
+      "backlink",
+      "hide-folders"
     ],
     "leftRibbon": []
   },
