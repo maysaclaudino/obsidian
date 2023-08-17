@@ -4,36 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ff85528b48db83b3",
+        "id": "086709047f1ac8bd",
         "type": "tabs",
-        "dimension": 26.537216828478964,
         "children": [
           {
-            "id": "c621783c1cc8b5f1",
+            "id": "b199029af8dbd942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "2878a45ff3abb7c4",
-        "type": "tabs",
-        "dimension": 73.46278317152104,
-        "children": [
+          },
           {
-            "id": "5906b9fc768aae4c",
+            "id": "a67b245f06726481",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0316 Conceitos/aula 16 08.md",
+                "file": "_MAC0338 Análise/lista 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAC0316 Conceitos/aula 16 08.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAC0316 Conceitos/aula 16 08.md",
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAC0316 Conceitos/aula 16 08.md"
+                "file": "_MAC0338 Análise/Análise de Algoritmos.md"
               }
             }
           }
@@ -150,11 +142,16 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "5906b9fc768aae4c",
+  "active": "b199029af8dbd942",
   "lastOpenFiles": [
+    "_MAC0338 Análise/lista 1.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_MAC0338 Análise/Notação O Grande.md",
+    "_MAC0338 Análise/Notação Omega.md",
+    "_MAC0338 Análise/Notação assintótica.md",
+    "BCC USP.md",
     "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
     "_MAC0316 Conceitos/aula 16 08.md",
-    "BCC USP.md",
     "_MAT3211 Algelin/Álgebra Linear.md",
     "_MAC0414 Autômatos/Linguagem regular.md",
     "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",

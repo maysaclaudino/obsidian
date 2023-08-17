@@ -9,6 +9,15 @@ SORT
 	date ASC,
 	ordem ASC
 ```
+# Listas
+
+```dataview
+TABLE
+	numero AS Número
+WHERE course = "MAC0338-lista"
+SORT
+	numero ASC
+```
 
 # Informações da matéria
 
