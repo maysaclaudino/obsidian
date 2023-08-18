@@ -9,7 +9,7 @@ annotation-target: slides/aula01_organized.pdf
 ## Definição
 _Página 1_
 ![](https://i.imgur.com/TJLPQp0.png)
-Uma linguagem é **regular** se existe algum [[Autômatos finitos|autômato finito determinístico]] que a reconhece. Por exemplo:
+Uma linguagem é **regular** se existe algum [[Autômatos finitos Determinísticos|autômato finito determinístico]] que a reconhece. Por exemplo:
 $$
 A=L(M_{2})=\{ w:w\text{ contém a subtring 11} \}
 $$
