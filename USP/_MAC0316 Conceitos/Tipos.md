@@ -1,26 +1,15 @@
 ---
 date: 2023-08-16
 course: "MAC0316"
-ordem: 0
+ordem: 1
 ---
 
 **Matéria:** [[Conceitos Fundamentais de Linguagens de Programação]]
 
 ---
-## Valores e tipos
-- Tipos de valores
-- Tipos fundamentais
-	- primitvos
-	- compostos
-	- recursivos
-## Definições
-- **Valores:** representações simbólicas de conceitos
-	- Ideia semântica por trás
-	- São elementos que podem ser avaliados, armazenados, atualizados e transmitidos durante a execução de um programa.
-- **Tipo:** classes de valores
-	- Organização de valores
-	- São conjuntos de calores semanticamente relacionados.
-- **[[Variáveis]]:** um programa geralmente é composto por mais de uma expressão. As variáveis servem como repositório para passagem de valores de uma expressão a outra do programa.
+## Definição
+- [[Valores#^3907dd]] 
+
 ## O porquê dos tipos
 - E se não tivéssemos os tipos?
 	- As operações precisariam ser definidas para valores particulares
@@ -35,7 +24,7 @@ ordem: 0
 		- $2.0+_{\mathbb{R}}3.5$
 
 ## Todo conjunto de valores é um tipo?
-- Um tipo é um conjunto de valores
+- Um tipo é um conjunto de [[valores]]
 	- E um conjunto de operações sobre esses valores
 	- $v$ é um valor do tipo $T$ se $v\in T$
 
@@ -59,16 +48,13 @@ ordem: 0
 
 ## Definições perdi esse slide
 Algo sobre cardinalidade
-
-## Uso de valores na programação
-- Modelar soluções de problemas científicos
-- Os valores básicos que usamos em programação são inspirados em valores matemáticos que conhecemos
-- Novos valores/tipos são incorporados à medida que ampliamos os domínios de aplicação
-
 ## Tipos em Linguagens de Programação
 - akgo
 
 ### Tipos primitivos
+
+^f8127a
+
 - **Valor primitivo:** atômico, não 
 	- Exemplo: caracteres, números reais, números inteiros
 		- Números reais são acessados como números inteiros
@@ -190,3 +176,31 @@ prim e seg é um identificador do tipo
 #### Conjunto Potência
 - $\mathcal{P}(A)$ 
 **Exemplo Pascal:**
+
+## Tipos recursivos
+- Representação de 
+### Listas
+- Um elemento conectado a outra lista...
+- Definidos em termos dele próprio
+**Exemplo: lista de números inteiros**
+- `const`: construção de inteiro com lista
+- `cont(i,nil)`:inteiro com lista vazia
+#### Listas SML
+- Linguagem funcional
+- O construtor só pode ser aplicado para um elemento e uma lista
+- Falta o 2 no final da lista slide errado corrigir
+##### Operações predefinidas
+
+^4508a2
+
+- Concatenação
+	- $[5,3,2]@[7,8]$
+	- $>[5,3,2,7,8]:$ int list
+- Lista em ordem inversa
+	- $\text{rev }$
+- Primeiro elemento da lista
+	- TL: tale
+- Descarta o primeiro elemento
+- O número de elementos da lista
+##### Inteiros
+- Lista vazia ou a construção de uma lista vazia com um inteiro

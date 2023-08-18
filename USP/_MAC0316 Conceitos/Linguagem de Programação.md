@@ -10,7 +10,7 @@ ordem: 0
 ## Introdução
 - Linguística de Programação
 	- Conceitos e paradigmas
-	- Sintaxel, semântica e paradigmas
+	- Sintaxe, semântica e paradigmas
 	- Processadores de linguagens
 - Histórico do desenvolvimento de paradigmas
 
@@ -60,7 +60,7 @@ ordem: 0
 	- Ortogonalidade
 		- Os comandos também funcionam combinados
 	- Instruções significativas (clareza)
-	- Facilidade para representar tipos e estruturas
+	- Facilidade para representar [[tipos]] e estruturas
 - Facilidade de escrita
 - Confiabilidade
 - Custo
@@ -75,8 +75,8 @@ ordem: 0
 
 ## Conceitos das LPs
 - Elementos para a construção das LPs e programas
-	- Valores e tipos
-	- Variáveis
+	- [[Valores]]
+	- [[Variáveis]]
 	- Vinculação e escopo
 	- Abstração de processos
 	- Abstração de dados
@@ -90,7 +90,7 @@ ordem: 0
 - Paradigma é um estilo de programação relacionado a conceitos fundamentais
 - Vinculado a forma de organizar
 - **Imperativo:** variáveis, comandos, procedimentos
-	- O programador define explicitamente os valores dos elementos
+	- O programador define explicitamente os [[valores]] dos elementos
 	- É eficiente para a arquitetura de computadores que temos atualmente
 	- C
 - **Orientado por objetos (OO):** objetos, métodos, classes
