@@ -7,14 +7,14 @@ ordem: 0
 **Matéria:** [[Conceitos Fundamentais de Linguagens de Programação]]
 
 ---
-## Introdução
+# Introdução
 - Linguística de Programação
 	- Conceitos e paradigmas
 	- Sintaxel, semântica e paradigmas
 	- Processadores de linguagens
 - Histórico do desenvolvimento de paradigmas
 
-## Linguística de Programação
+# Linguística de Programação
 - Estudo das Linguagens de Programação (LPs)
 - Análogo a linguística das linguagens naturais: sintaxe e semântica
 - Linguagens naturais são muito mais expressivas e os linguistas se concentram em seus estudos
@@ -22,7 +22,7 @@ ordem: 0
 
 - Linguística de programação é mais restrita que a natural
 
-## Para que usamos LPs?
+# Para que usamos LPs?
 - Solucionar problemas que não "queremos" resolver manualmente
 - Programa:
 	- Documento (descrição)
@@ -30,15 +30,15 @@ ordem: 0
 	- Máquina Abstrata
 		- Descreve os passos computacionais da solução
 
-## O que é uma LP?
+# O que é uma LP?
 - Determina os recursos disponíveis e sua forma de utilização para construir máquinas abstratas específicas (para ser simulada por um computador)
 
-## Visões distintas das LPs
+# Visões distintas das LPs
 - Usuário
 - Projetista
 	- O quão fácil ou difícil é do ponto de vista dos processadores
 
-## Como projetar uma LP?
+# Como projetar uma LP?
 - Quais os problemas a resolver? Requisitos
 - Como representar, de forma natural, os requisitos desejados? Expressividade.
 	- Adaptar o domínio do que temos para o usuário final
@@ -46,7 +46,7 @@ ordem: 0
 - Os requisitos são implementáveis? Implementação
 - Dá para implementar de forma eficiente? Eficiência.
 
-## Propriedade importante das LPs: universalidade
+# Propriedade importante das LPs: universalidade
 - Uma LP deve ser universal: expressar qualquer computação
 	- Não universal: linguagens sem iteração ou recursão
 	- Universais: funções recursivas ou iteração + recursão
@@ -54,7 +54,7 @@ ordem: 0
 		- Precisa dos comandos de atribuição, if else e loop
 			- Os demais comandos são definidos em cima disso
 
-## Características desejáveis das LPs
+# Características desejáveis das LPs
 - Legibilidade
 	- Simplicidade
 	- Ortogonalidade
@@ -69,11 +69,11 @@ ordem: 0
 
 - Repertório mais enxuto que compreenda as necessidades da linguagem
 
-## Fatores de influência no projeto
+# Fatores de influência no projeto
 - Arquitetura de máquinas
 - Metodologias de desenvolvimento
 
-## Conceitos das LPs
+# Conceitos das LPs
 - Elementos para a construção das LPs e programas
 	- Valores e tipos
 	- Variáveis
@@ -86,7 +86,7 @@ ordem: 0
 			- Mas é menos eficiente que o programador paralelizar
 
 - Vincular um valor a uma variável, uma definição a uma função
-## Paradigmas de programação
+# Paradigmas de programação
 - Paradigma é um estilo de programação relacionado a conceitos fundamentais
 - Vinculado a forma de organizar
 - **Imperativo:** variáveis, comandos, procedimentos
@@ -102,7 +102,7 @@ ordem: 0
 - **Lógico:** asserções, relações
 	- Prolog
 
-## O que é necessário para construir uma LP?
+# O que é necessário para construir uma LP?
 - Sintaxe
 - Semântica
 	- Operacional

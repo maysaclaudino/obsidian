@@ -15,17 +15,14 @@ Conjunto das notações:
 - Toda função é $O()$ dela mesma
 	- Porém não é relevante, colocamos o que entendemos ou estamos acostumados
 - Merge Sort roda em $\Theta(n\lg n)$
-## Intuitivamente
-#### Página 1
-
-## Nomes de classes
-#### Página 2
-
-## Palavras de Cautela
-#### Página 3
-
+# Intuitivamente
+_Página 1_
+# Nomes de classes
+_Página 2_
+# Palavras de Cautela
+_Página 3_
 ## Insertion Sort
-#### Página 5.
+_Página 5_
 - No vetor ordenado invertido o Insertion Sorte é $n^{2}$.
 	- $O(n^{2})$
 	- $\Omega(n^{2})$

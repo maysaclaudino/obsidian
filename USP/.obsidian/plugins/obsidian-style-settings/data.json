@@ -1,5 +1,10 @@
 {
   "things-style@@em-color": "#E5B567",
   "things-style@@h5-color": "#E5B567",
-  "things-style@@h4-color": "#E83E3E"
+  "things-style@@h4-color": "#E83E3E",
+  "things-style@@active-line": true,
+  "things-style@@link-decoration": "None",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow",
+  "things-style@@h2-underline": false
 }

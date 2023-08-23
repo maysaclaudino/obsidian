@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "775818e787ab7d5d",
+        "id": "a1dd03dc3d2f280e",
         "type": "tabs",
         "children": [
           {
-            "id": "ce40ecdb70b8b16f",
+            "id": "5462387089d8743a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -121,40 +121,44 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "obsidian-custom-frames:Open Google Keep": false,
+      "obsidian-custom-frames:Open Google Calendar": true,
+      "obsidian-custom-frames:Open Google Keep": true,
       "homepage:Open homepage": false,
-      "hide-folders:Show hidden folders": false
+      "hide-folders:Show hidden folders": true
     }
   },
-  "active": "ce40ecdb70b8b16f",
+  "active": "5462387089d8743a",
   "lastOpenFiles": [
-    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
-    "Templates/aula-algelin.md",
-    "Templates/aula-conceitos.md",
-    "_MAC0316 Conceitos/Variáveis.md",
-    "_MAC0316 Conceitos/Valores e tipos.md",
+    "Controle de faltas.md",
     "BCC USP.md",
-    "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
+    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_MAC0316 Conceitos/Variáveis.md",
+    "_MAT3211 Algelin/Álgebra Linear.md",
+    "_MAT3211 Algelin/Espaço vetorial.md",
+    "_MAT3211 Algelin/Corpos.md",
+    "_MAT3211 Algelin/Números.md",
     "_MAC0414 Autômatos/Expressões Regulares.md",
     "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
-    "_0440620 Pedrinhas/Geologia Geral.md",
-    "_MAC0338 Análise/Análise de Algoritmos.md",
-    "_0440620 Pedrinhas/Estrutura da terra.md",
-    "_MAC0338 Análise/Notação Theta.md",
-    "_MAC0414 Autômatos/Autômatos finitos Determinísticos.md",
-    "_MAC0338 Análise/lista 1.md",
-    "_MAC0338 Análise/Notação O Grande.md",
-    "_MAC0338 Análise/Notação Omega.md",
-    "_MAC0338 Análise/Notação assintótica.md",
-    "_MAT3211 Algelin/Álgebra Linear.md",
+    "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
     "_MAC0414 Autômatos/Linguagem regular.md",
-    "_MAC0414 Autômatos/aula 15/08.md",
+    "_MAC0414 Autômatos/Autômatos Finitos Determinísticos.md",
+    "_0440620 Pedrinhas/Geologia Geral.md",
+    "_0440620 Pedrinhas/Estrutura da terra.md",
+    "_0440620 Pedrinhas/Sistema Solar.md",
+    "_0440620 Pedrinhas/Estrelas.md",
+    "_0440620 Pedrinhas/Universo.md",
+    "_0440620 Pedrinhas/Geologia.md",
+    "_MAC0338 Análise/Divisão e Conquista.md",
+    "_MAC0338 Análise/Notação assintótica.md",
+    "_MAC0338 Análise/Notação Theta.md",
+    "_MAC0338 Análise/Notação Omega.md",
+    "_MAC0338 Análise/Notação O Grande.md",
+    "_MAC0338 Análise/Análise do Insertion Sort.md",
     "_MAC0414 Autômatos/aula 15",
-    "_MAC0414 Autômatos/slides/aula01_organized.pdf",
-    "conflict-files-obsidian-git.md"
+    "_MAC0414 Autômatos/slides/aula01_organized.pdf"
   ]
 }

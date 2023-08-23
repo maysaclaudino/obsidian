@@ -5,16 +5,16 @@ ordem: 0
 ---
 **Matéria:** [[Análise de Algoritmos]]
 
-## Algoritmo do Insertion Sort
+# Algoritmo do Insertion Sort
 
 Rearranja o vetor $A[1\dots n]$ em ordem crescente
 
 ![](https://i.imgur.com/USrMUSl.png)
 
-## Quantas atribuições o algoritmo faz?
+# Quantas atribuições o algoritmo faz?
 - O loop `for` esconde algumas atribuições.
 ![](https://i.imgur.com/5QkJydJ.png)
-### Linhas 3-6
+## Linhas 3-6
 - Vamos considerar os elementos $(A,j,\text{chave})$
 ![](https://i.imgur.com/AdRqxCy.png)
 
@@ -28,7 +28,7 @@ Rearranja o vetor $A[1\dots n]$ em ordem crescente
 
 - Em termos de $n$ o total é $2n-1$
 
-### Todas as linhas
+## Todas as linhas
 - Vamos considerar os elementos $(A,n)$
 ![](https://i.imgur.com/mVH6sEW.png)
 
@@ -40,7 +40,7 @@ Rearranja o vetor $A[1\dots n]$ em ordem crescente
 | 7         | $n-1$             |
 | **total** | $2n^{2}-1$        | 
 
-#### E se usarmos $2j-1$ como limitante?
+### E se usarmos $2j-1$ como limitante?
 $$
 \begin{align}
 (n-1)(2n-1) \\
@@ -63,7 +63,7 @@ Logo, temos:
 | 7         | $n-1$             |
 | **total** | $\leq2n^{2}+3n-3$        | 
 
-## Consumo por tempo
+# Consumo por tempo
 Se a execução de cada linha de código consome **1 unidade** de tempo, qual o consumo total?
 
 | linha     | todas as execuções da linha             |

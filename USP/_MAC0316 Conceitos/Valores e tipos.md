@@ -7,13 +7,13 @@ ordem: 0
 **Matéria:** [[Conceitos Fundamentais de Linguagens de Programação]]
 
 ---
-## Valores e tipos
+# Valores e tipos
 - Tipos de valores
 - Tipos fundamentais
 	- primitvos
 	- compostos
 	- recursivos
-## Definições
+# Definições
 - **Valores:** representações simbólicas de conceitos
 	- Ideia semântica por trás
 	- São elementos que podem ser avaliados, armazenados, atualizados e transmitidos durante a execução de um programa.
@@ -21,7 +21,7 @@ ordem: 0
 	- Organização de valores
 	- São conjuntos de calores semanticamente relacionados.
 - **[[Variáveis]]:** um programa geralmente é composto por mais de uma expressão. As variáveis servem como repositório para passagem de valores de uma expressão a outra do programa.
-## O porquê dos tipos
+# O porquê dos tipos
 - E se não tivéssemos os tipos?
 	- As operações precisariam ser definidas para valores particulares
 - E com os tipos?
@@ -34,7 +34,7 @@ ordem: 0
 		- $1.0+_{\mathbb{R}}2.0$
 		- $2.0+_{\mathbb{R}}3.5$
 
-## Todo conjunto de valores é um tipo?
+# Todo conjunto de valores é um tipo?
 - Um tipo é um conjunto de valores
 	- E um conjunto de operações sobre esses valores
 	- $v$ é um valor do tipo $T$ se $v\in T$
@@ -57,31 +57,31 @@ ordem: 0
 - A rigor um número real não tem o mesmo significado que um número inteiro
 - Elementos com semântica parecida
 
-## Definições perdi esse slide
+# Definições perdi esse slide
 Algo sobre cardinalidade
 
-## Uso de valores na programação
+# Uso de valores na programação
 - Modelar soluções de problemas científicos
 - Os valores básicos que usamos em programação são inspirados em valores matemáticos que conhecemos
 - Novos valores/tipos são incorporados à medida que ampliamos os domínios de aplicação
 
-## Tipos em Linguagens de Programação
+# Tipos em Linguagens de Programação
 - akgo
 
-### Tipos primitivos
+## Tipos primitivos
 - **Valor primitivo:** atômico, não 
 	- Exemplo: caracteres, números reais, números inteiros
 		- Números reais são acessados como números inteiros
-#### Tipos primitivos definidos
+### Tipos primitivos definidos
 
-#### Cardinalidade de tipos predefinidos
+### Cardinalidade de tipos predefinidos
 - \#Boolean = 2
 	- Precisamos de apenas 1 bit
 - \#Character = 128 (ASCII), 256 (ISO-L)
 
 - A representação interna depende da cardinalidade que estamos trabalhando
 
-#### Tipos primitivos construídos
+### Tipos primitivos construídos
 - Novos tipos construídos
 	- **C:** `enum MesesC {jan, fev, mar, abr, mai, jun, jul, ago, set, out, nov, dez}`
 	- Enumeração de novos valores
@@ -98,7 +98,7 @@ Algo sobre cardinalidade
 - A partir de tipos existentes
 - Novo conjunto de valores a partir de um intervalo
 
-##### Operações sobre tipos construídos
+#### Operações sobre tipos construídos
 - Em C conseguimos somar `jan` com `fev`
 	- Faz uma representação de inteiros
 $$
@@ -111,21 +111,21 @@ $$
 - $z\gets x+3$ faz mais sentido, apesar de continuar errado
 - Não tem significado intuitivo
 
-### Tipos compostos
+## Tipos compostos
 - **Valor composto:** não-atômico, pode ser desmembrado em valores mais simples
 	- Tipos que conseguimos ter acesso a partes diferentes dos valores
 - **Tipo composto:** conjunto formado por valores compostos
 
 - Um programa bom é aquele escrito de forma clara intuitivamente a solução do problema
 
-#### Principais tipos compostos
+### Principais tipos compostos
 - Produto cartesiano
 - União disjunta
 - Mapeamentos
 - Conjunto Potência
 - algo
 
-##### Produto cartesiano
+#### Produto cartesiano
 - O produto cartesiano do conjunto $S$ pelo conjunto $T$ é definido por:
 	- $C=S\times T=\{ (x,y)|\x \in S; y\in T \}$
 	- $(x,y)$ é uma tupla do produto
@@ -159,8 +159,8 @@ enum
 type MesesA
 ```
 
-## União Disjunta
-### União disjunta discriminada
+# União Disjunta
+## União disjunta discriminada
 prim e seg é um identificador do tipo
 
 - Todos os elementos do conj com essa identificação
@@ -169,7 +169,7 @@ prim e seg é um identificador do tipo
 - Se for exato é inteiro, se é aproximado é real
 
 **Exemplo Ada:**
-### União disjunta livre
+## União disjunta livre
 - União de todos os elementos de $S$ e todos os elementos de $T$
 **Exemplo C:**
 - Temos o conjunto de todos os inteiros e todos os reais
@@ -178,7 +178,7 @@ prim e seg é um identificador do tipo
 	- Acomoda espaço para um número real, porque toma mais espaço
 **Exemplo Ada:**
 
-#### Mapeamento
+### Mapeamento
 - O mapeamento do conjunto $S$ para o conjunto $T$ é definido por:
 	- $m:S\to T=\{ m|x \in S \implies m(x) \in T \}$
 - Cardinalidade
@@ -187,6 +187,6 @@ prim e seg é um identificador do tipo
 - $A=\{ \text{jan, fev, mar} \}$ 
 **C, Pascal e Ada:**
 
-#### Conjunto Potência
+### Conjunto Potência
 - $\mathcal{P}(A)$ 
 **Exemplo Pascal:**

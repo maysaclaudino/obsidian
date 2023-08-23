@@ -5,10 +5,7 @@ ordem: 1
 ---
 **Matéria:** [[Álgebra Linear]]
 
->[!example] Anterior:
->[[Números]]
-
-## Operações + e .
+# Operações + e .
 Em $\mathbb{R}$ temos duas operações $+$ e $\cdot$
 $$
 \begin{align}
@@ -20,7 +17,7 @@ $$
 \end{align}
 $$
 
-## Definição de Corpo
+# Definição de Corpo
 Seja $F$ um conjunto com duas operações $+$ e $\cdot$, isto é, são funções denotadas por:
 $$
 \begin{align}
@@ -32,8 +29,8 @@ $$
 \end{align}
 $$
 Dizemos que a terna $(F, +, \cdot)$ é um corpo se valem os axiomas:
-### Axiomas da Adição
-#### A1 Associativa
+## Axiomas da Adição
+### A1 Associativa
 $$
 \begin{align}
 (a+b)+c=a+(b+c) \\
@@ -41,7 +38,7 @@ $$
 \end{align}
 $$
 
-#### A2 Comutativa
+### A2 Comutativa
 $$
 \begin{align}
 a+b=b+a \\
@@ -49,7 +46,7 @@ a+b=b+a \\
 \end{align}
 $$
 
-#### A3 Elemento Neutro
+### A3 Elemento Neutro
 $$
 \begin{align}
 \exists e \in \mathbb{R} \text{ tq. } a+e=0 \\
@@ -57,7 +54,7 @@ $$
 \end{align}
 $$
 
-#### A4 Elemento Oposto
+### A4 Elemento Oposto
 $$
 \begin{align}
 \forall a  & \in F \\
@@ -66,8 +63,8 @@ a+b & =0
 \end{align}
 $$
 
-### Axiomas da Multiplicação
-#### M1 Associativa
+## Axiomas da Multiplicação
+### M1 Associativa
 $$
 \begin{align}
 (ab)c=a(bc) \\
@@ -75,7 +72,7 @@ $$
 \end{align}
 $$
 
-#### M2 Comutativa
+### M2 Comutativa
 $$
 \begin{align}
 ab=ba \\
@@ -83,7 +80,7 @@ ab=ba \\
 \end{align}
 $$
 
-#### M3 Elemento Unidade
+### M3 Elemento Unidade
 $$
 \begin{align}
 \exists f \in F, f\neq e \text{ tq. }  \\
@@ -92,7 +89,7 @@ a\cdot f=a \\
 \end{align}
 $$
 
-#### M4 Inverso
+### M4 Inverso
 $$
 \begin{align}
 \forall a  & \in F, a \neq 0 \\
@@ -101,7 +98,7 @@ aa' & =f
 \end{align}
 $$
 
-### Distributiva
+## Distributiva
 $$
 \begin{align}
 a(b+c)=ab+ac \\
@@ -113,12 +110,12 @@ $$
 - Dá para provar que o oposto e o inverso são únicos.
 	- **Notação:** $b=-a$ e $a'=a^{-1}$
 
-## Exemplos
+# Exemplos
 1. Racionais ($\mathbb{Q}$)
 2. Reais ($\mathbb{R}$)
 3. Complexos ($\mathbb{C}$)
 
-### $Z_{m}$
+## $Z_{m}$
 $Z_{m}=\{ 0,1,2,\dots,m-1 \}$, onde $m\in\mathbb{Z}$ e $m\geq 1$
 
 São os restos da divisão de um inteiro por $m$.

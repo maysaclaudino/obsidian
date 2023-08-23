@@ -6,10 +6,10 @@ annotation-target: slides/aula01_organized.pdf
 ---
 **Matéria:** [[Autômatos, Computabilidade e Complexidade]]
 
-## Definição
+# Definição
 _Página 1_
 ![](https://i.imgur.com/TJLPQp0.png)
-Uma linguagem é **regular** se existe algum [[Autômatos finitos Determinísticos|autômato finito determinístico]] que a reconhece. Por exemplo:
+Uma linguagem é **regular** se existe algum [[Autômatos Finitos Determinísticos|autômato finito determinístico]] que a reconhece. Por exemplo:
 $$
 A=L(M_{2})=\{ w:w\text{ contém a subtring 11} \}
 $$
@@ -24,31 +24,31 @@ Logo $A$ é regular.
 
 
 
-## União de LR
+# União de LR
 _Página 9_
-### Exemplos
+## Exemplos
 _Página 14_
 
-## Interseção de LR
+# Interseção de LR
 _Página 21_
 - Supomos que os alfabetos são iguais
 	- Se um símbolo está em um alfabeto e não em outro, rejeita
 	- Estado da morte para esse caso (o outro)
 - Somente $(q_{0},r_{0})$ é aceito.
 
-## Concatenação de LR
+# Concatenação de LR
 _Página 24_
 - A questão é: definir onde acaba $x$ e começa $y$ em $w$
 	- $w=x+y$ 
 - A cada estado de aceite de $A_{1}$ checamos se $A_{2}$ aceita
 	- Se 1 $A_{2}$ aceitar, então aceita $A_{1}\circ A_{2}$ 
 	- Alguma hora "padroniza" então basta 1 caso de $A_{2}$ aceitar, todos aceitam
-### Exemplos
+## Exemplos
 _Página 28_
 
-## Conjunto das partes
+# Conjunto das partes
 _Página 41_
 
-## Outro
+# Outro
 - A quantidade de estados e possibilidades é finita
 	- $Q$ é finito.

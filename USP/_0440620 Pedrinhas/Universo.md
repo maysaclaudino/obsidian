@@ -10,34 +10,34 @@ annotation-target: slides/Aula 2 Slides_universo.pdf
 ---
 > Cheguei atrasada não peguei essa parte rss
 
-## Organização do universo
+# Organização do universo
 _Página 1_
-## Distâncias relativas ao Sol
-### Planeta Terra
+# Distâncias relativas ao Sol
+## Planeta Terra
 _Página 2_
 
-### Sistema Solar
+## Sistema Solar
 _Página 3_
 
-### Vizinhança do Sol
+## Vizinhança do Sol
 _Página 4_
-### Braço de Orion
+## Braço de Orion
 _Página 5_
-### Galáxia Via Láctea
+## Galáxia Via Láctea
 _Página 6_
-### Grupo local de galáxias
+## Grupo local de galáxias
 _Página 7_
-### O Superaglomerado de Virgem
+## O Superaglomerado de Virgem
 _Página 8_
-### Superaglomerados mais próximos
+## Superaglomerados mais próximos
 _Página 9_
-### O Universo Visível
+## O Universo Visível
 _Página 10_
-## Origem e evolução do Universo
+# Origem e evolução do Universo
 _Página 11_
-### Efeito Doppler
+## Efeito Doppler
 _Página 12_
-### Teoria do Big Bang
+## Teoria do Big Bang
 _Página 15_
-## Composição do Universo
+# Composição do Universo
 _Página 19_

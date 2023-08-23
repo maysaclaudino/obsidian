@@ -9,7 +9,7 @@ As perguntas de MAC0414 serão do tipo:
 - Dado um número inteiro $n$, decidir se $n$ é primo.
 - Dado uma string $w$ sobre $\{ 0,1 \}$ decidir se $w$ está em $L$.
 	- Onde $L$ é o conjunto de números primos.
-## Strings
+# Strings
 - _Strings_ são sequências de símbolos de um alfabeto.
 	- **Alfabeto** é um conjunto não vazio de símbolos. É representado por letra grega maiúscula.
 - $w=w_{1}w_{2}w_{3}\dots w_{n}$ onde $n$ é o _comprimento_ da string.
@@ -18,7 +18,7 @@ As perguntas de MAC0414 serão do tipo:
 - São representadas por letras minúsculas.
 - São finitas
 
-## Máquina de estados
+# Máquina de estados
 - Uma máquina de estados finitos.
 - O coração da máquina é o controle finito que a cada momento está em um estado.
 - Em intervalos de tempo regulares:
@@ -29,17 +29,17 @@ As perguntas de MAC0414 serão do tipo:
 ![](https://i.imgur.com/rtUpC2F.png)
 
 
-## "Órgãos" de um autômato $M_{1}$
+# "Órgãos" de um autômato $M_{1}$
 ![](https://i.imgur.com/NngXnkm.png)
 
 - **Estados:** $q_{1}, q_{2}$ e $q_{3}$
 - **Transições:** $\xrightarrow{ 1 }$
 - **Estado inicial:** ![](https://i.imgur.com/fYO5ZhI.png)
 - **Estado de aceitação:** ![](https://i.imgur.com/ZW3v9AO.png)
-## Autômato e computação
+# Autômato e computação
 - **Entrada:** uma string
 - **Saída:** aceita ou rejeitada
-### Computação
+## Computação
 - Começa no estado inicial
 - lê um símbolo da string;
 - segue a transição correspondente;
@@ -47,7 +47,7 @@ As perguntas de MAC0414 serão do tipo:
 
 No autômato $M_{1}$ acima a string $01101$ é **aceita** e $11000$ é **rejeitada**.
 
-## Componentes
+# Componentes
 Um **ADF** $M$ consiste de 5 componentes $(Q, \Sigma, \delta, s, F)$ em que:
 - $Q$ é um conjunto finito de _estados_
 - $\Sigma$ é o _alfabeto_ dos símbolos da entrada ^e4c346
@@ -55,7 +55,7 @@ Um **ADF** $M$ consiste de 5 componentes $(Q, \Sigma, \delta, s, F)$ em que:
 - $s \in Q$ é o estado inicial
 - $F\subseteq Q$ é o conjunto de _estados de aceitação_
 	- Pode ter mais de um
-### Exemplo
+## Exemplo
 ![NngXnkm.png](https://i.imgur.com/NngXnkm.png)
 Aqui temos $M_{1}=(Q,\Sigma,\delta,q_{1},F)$ em que:
 - $Q=\{ q_{1},q_{2},q_{3} \}$
@@ -72,13 +72,13 @@ Aqui temos $M_{1}=(Q,\Sigma,\delta,q_{1},F)$ em que:
 - $F=\{ q_{2} \}$ é o conjunto de _estados de aceitação_
 
 ![](https://i.imgur.com/NngXnkm.png)
-## Representação de autômatos
+# Representação de autômatos
 - Um autômato finito determinístico (AFD) é comumente representado ou por uma tabela de transição.
 - Essa tabela se assemelha à função de transição.
 - **Linhas** correspondem a estados e **colunas** a símbolos de $\Sigma$
 - O **estado inicial** é marcado com $\to$ e os **estados de aceitação** com $*$.
 ![](https://i.imgur.com/rgQGngk.png)
-## Linguagem de um autômato
+# Linguagem de um autômato
 Seja $M_{1}$ um autômato e $w$ uma string se: 
 $$
 A=\{ w:M_{1}\text{ aceita }w \}
@@ -88,7 +88,7 @@ Então dizemos que $A$ é a _linguagem de_ $M$ ou que $M_{1}$ _reconhece_ $A$
 - $L(M_{1})$ é a linguagem reconhecida por $M$.
 - Não precisa ser finita.
 - É um conjunto representado por letras maiúsculas.
-## Exemplo
+# Exemplo
 ![](https://i.imgur.com/NngXnkm.png)
 Aqui $M_{1}$ aceita $01101$ e rejeita $11000$.
 
@@ -97,9 +97,5 @@ $$
 A=\{ w:w\text{ termina com o símbolo 1 ou com um número par de 0's} \}
 $$
 
-## Outro
+# Outro
 - Compiladores são maneiras compactas de decidir se uma string (programa) está nalinguagem de programas válidos.
-
----
->[!example] Próximo:
-> [[Linguagem regular]]

@@ -8,11 +8,11 @@ annotation-target: slides/Aula 2 Slides_estrelas.pdf
 **Matéria:** [[Geologia Geral]]
 
 ---
-## Evolução estelar
+# Evolução estelar
 _Página 2_
-## Classificação das Estrelas
+# Classificação das Estrelas
 _Página 13_
-## Formação dos elementos químicos
+# Formação dos elementos químicos
 _Página 15_
 - Sol funde o hidrogênio para formar hélio
 	- Núcleossíntese

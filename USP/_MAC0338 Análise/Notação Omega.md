@@ -5,6 +5,7 @@ ordem: 1
 ---
 **Matéria:** [[Análise de Algoritmos]]
 
+# Definição
 Dizemos que $T (n)$ é $Ω(f (n))$ se existem constantes positivas $c$ e $n_{0}$ tais que, para todo $n\geq n_{0}$:
 $$
 c f (n) ≤ T (n)
@@ -12,18 +13,18 @@ $$
 
 ![](https://i.imgur.com/oGQJ4KE.png)
 
-### Mais informal
+## Mais informal
 $T (n) = Ω(f (n))$ se existe $c > 0$ tal que
 $$
 c f (n) ≤ T (n)
 $$
 para todo $n$ suficientemente GRANDE.
-## Exemplos
-### Exemplo 1
+# Exemplos
+## Exemplo 1
 Se $T (n) ≥ 0.001n^{2}$ para todo $n ≥ 8$, então $T (n)$ é $Ω(n^{2})$.
 _Prova:_ Aplique a definição com $c = 0.001$ e $n_{0}=8$.
 
-### Exemplo 2
+## Exemplo 2
 O consumo de tempo do ORDENA-POR-INSERÇÃO é $O(n^{2})$ e $Ω(n)$.
 ![](https://i.imgur.com/USrMUSl.png)
 
@@ -36,7 +37,7 @@ O consumo de tempo do ORDENA-POR-INSERÇÃO é $O(n^{2})$ e $Ω(n)$.
 | 7         | $=n-1$              |
 | **total** | $\geq 4n-3=\Omega(n)$                    |
 
-## Outro
+# Outro
 - Usamos a notação $\Omega$ para limitantes inferiores
 - $n$ é sempre inteiro
 - Insertion sort é $O(n)$ quando o vetor está ordenado

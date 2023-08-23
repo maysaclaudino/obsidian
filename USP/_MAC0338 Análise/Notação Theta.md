@@ -5,7 +5,7 @@ ordem: 2
 ---
 **Matéria:** [[Análise de Algoritmos]]
 
-## Definição
+# Definição
 Sejam $T (n)$ e $f (n)$ funções dos inteiros no reais.
 Dizemos que $T (n)$ é $Θ(f (n))$ se:
 - $T (n)$ é $O(f (n))$, e
@@ -19,5 +19,5 @@ $$
 c_{1} f (n) ≤ T (n) ≤ c_{2} f (n)
 $$
 
-## Outro
+# Outro
 - Usamos a notação $\Theta$ quando a função é ao mesmo tempo $O(f(n))$ e $\Omega(f(n))$

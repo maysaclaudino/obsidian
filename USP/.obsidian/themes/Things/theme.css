@@ -291,6 +291,14 @@ body.is-mobile.theme-dark.mobile-black-background {
   }
 }
 
+/* H1 styling */
+body.h1-underline h1,
+body.h1-underline .HyperMD-header.HyperMD-header-1.cm-line {
+  border-bottom: 2px solid var(--background-modifier-border);
+  width: 100%;
+  padding-bottom: 2px;
+}
+
 /* H2 styling */
 body.h2-underline h2,
 body.h2-underline .HyperMD-header.HyperMD-header-2.cm-line {
@@ -1203,6 +1211,12 @@ settings:
         type: variable-color
         format: hex
         default: '#'
+    - 
+        id: h1-underline
+        title: H1 underline
+        description: Toggle H1 underline (border-bottom)
+        type: class-toggle
+        default: true
     - 
         id: level-2-headings
         title: Level 2 Headings

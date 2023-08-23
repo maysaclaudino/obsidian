@@ -5,7 +5,7 @@ ordem: 0
 ---
 **Matéria:** [[Álgebra Linear]]
 
-## Notação
+# Notação
 Conjunto dos **números naturais**:
 $$
  \mathbb{N}=\{0,1,2,\dots\}
