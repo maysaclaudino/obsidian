@@ -54,6 +54,8 @@ _Página 42_
 - Chute: $2^{k}T\left( \frac{n}{2^{2}}+kn \right)$
 	- Agora precisa provar por indução
 - $k=\lg n$ foi escolhido conforme onde eu quero chegar para transformar em $T(1)$.
+	- Propriedade logaritmo ![](https://i.imgur.com/jsw3dMV.png)
+
 ##### Conferência
 _Página 49_
 - Provar o chute por indução em $k$

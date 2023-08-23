@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "086709047f1ac8bd",
+        "id": "775818e787ab7d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b199029af8dbd942",
+            "id": "ce40ecdb70b8b16f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0338 Análise/lista 1.md",
+                "file": "_MAC0316 Conceitos/Variáveis.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAC0338 Análise/lista 1.md",
+                "file": "_MAC0316 Conceitos/Variáveis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAC0338 Análise/lista 1.md",
+                "file": "_MAC0316 Conceitos/Variáveis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,16 +107,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAC0338 Análise/lista 1.md"
+                "file": "_MAC0316 Conceitos/Variáveis.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,26 +130,31 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "b199029af8dbd942",
+  "active": "ce40ecdb70b8b16f",
   "lastOpenFiles": [
-    "_MAC0338 Análise/Análise de Algoritmos.md",
-    "_MAC0338 Análise/Notação Theta.md",
+    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
+    "Templates/aula-algelin.md",
+    "Templates/aula-conceitos.md",
+    "_MAC0316 Conceitos/Variáveis.md",
+    "_MAC0316 Conceitos/Valores e tipos.md",
     "BCC USP.md",
     "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
-    "_MAC0414 Autômatos/Autômatos finitos Determinísticos.md",
+    "_MAC0414 Autômatos/Expressões Regulares.md",
     "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+    "_0440620 Pedrinhas/Geologia Geral.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_0440620 Pedrinhas/Estrutura da terra.md",
+    "_MAC0338 Análise/Notação Theta.md",
+    "_MAC0414 Autômatos/Autômatos finitos Determinísticos.md",
     "_MAC0338 Análise/lista 1.md",
     "_MAC0338 Análise/Notação O Grande.md",
     "_MAC0338 Análise/Notação Omega.md",
     "_MAC0338 Análise/Notação assintótica.md",
-    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
-    "_MAC0316 Conceitos/aula 16 08.md",
     "_MAT3211 Algelin/Álgebra Linear.md",
     "_MAC0414 Autômatos/Linguagem regular.md",
     "_MAC0414 Autômatos/aula 15/08.md",
     "_MAC0414 Autômatos/aula 15",
     "_MAC0414 Autômatos/slides/aula01_organized.pdf",
-    "_0440620 Pedrinhas/Geologia Geral.md",
     "conflict-files-obsidian-git.md"
   ]
 }

@@ -26,9 +26,7 @@ SORT
 
 ## Monitorias
 
-- Monitor: email
-
-_Horário da monitoria_: 
+- Cassio 
 
 ## Critério de avaliação
 ### Média Provas
