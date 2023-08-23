@@ -6,5 +6,7 @@
   "things-style@@link-decoration": "None",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow",
-  "things-style@@h2-underline": false
+  "things-style@@h2-underline": false,
+  "things-style@@h2-weight": 600,
+  "things-style@@h2-size": "1.4em"
 }
