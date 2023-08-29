@@ -50,9 +50,12 @@ ordem: 0
 
 - $E$ é uma expressão do tipo $T$ se $E$ é sempre avaliada com um valor do tipo $T$
 - Quais conjuntos são tipos? Tratamento uniforme de valores
-	- $\{ \text{false, true} \}$ é um tipo: `not, and, or` são operações aplicadas de maneira uniforme sobre esses valores.
-	- $\{ \dots,-2,-1,0,+1,+2,\dots \}$ é um tipo: $+,-,*,/$ são aplicadas sobre todos os valores uniformemente
+	- $\{ \text{false, true} \}$ é um tipo
+		- `not, and, or` são operações aplicadas de maneira uniforme sobre esses valores.
+	- $\{ \dots,-2,-1,0,+1,+2,\dots \}$ é um tipo
+		- $+,-,*,/$ são aplicadas sobre todos os valores uniformemente
 	- $\{ 20,\text{true},\text{Tuesday} \}$ não é um tipo
+		- Não temos operações para tratar esses valores de maneira uniforme porque eles são semanticamente diferentes
 
 - A rigor um número real não tem o mesmo significado que um número inteiro
 - Elementos com semântica parecida
@@ -66,26 +69,45 @@ Algo sobre cardinalidade
 - Novos valores/tipos são incorporados à medida que ampliamos os domínios de aplicação
 
 # Tipos em Linguagens de Programação
-- akgo
-
+- Primitivos
+- Compostos
+- Recursivos
 ## Tipos primitivos
-- **Valor primitivo:** atômico, não 
+- **Valor primitivo:** atômico, não pode ser desmembrado em valores mais simples
 	- Exemplo: caracteres, números reais, números inteiros
 		- Números reais são acessados como números inteiros
+- **Tipo primitivo:** conjunto formado por valores primitivos
+	- Toda linguagem de programação possui tipos primitivos
+	- Algumas permitem a construção desses tipos
 ### Tipos primitivos definidos
-
+- A maioria das linguagens de programação oferecem tipos primitivos como:
+	- Boolean $=\{ \text{false, true} \}$
+	- Character $=\{ \dots'A', \dots, 'Z','0',\dots, '9',\dots \}$
+	- Integer $=\{ \dots, -2, -1, 0, +1, +2, \dots \}$
+	- Float $=\{ \dots, -1.0, \dots, 0.0, \dots, +1.0, \dots \}$ 
 ### Cardinalidade de tipos predefinidos
 - \#Boolean = 2
 	- Precisamos de apenas 1 bit
-- \#Character = 128 (ASCII), 256 (ISO-L)
+- \#Character = 128 (ASCII), 256 (ISO-Latin), 32768 (Unicode)
+- \#Integer = max integer - min integer +1
 
 - A representação interna depende da cardinalidade que estamos trabalhando
-
 ### Tipos primitivos construídos
 - Novos tipos construídos
-	- **C:** `enum MesesC {jan, fev, mar, abr, mai, jun, jul, ago, set, out, nov, dez}`
+	- **C:**
+```C
+enum MesesC {jan, fev, mar, abr, mai, jun, jul, ago, set, out, nov, dez}
+
+#MesesC = 12
+```
+- 
 	- Enumeração de novos valores
-	- **Pascal:** `type`
+	- **Pascal:**
+```Pascal
+type MesesP = {jan, fev, mar, abr, mai, jun, jul, ago, set, out, nov, dez}
+
+#MesesC = 12
+```
 - Quero definir um novo conjunto de valores para tratar como um tipo
 - Existe uma relação de ordem entre os elementos ( `dez < nov` )
 - A linguagem Ada também permite isso
@@ -96,8 +118,8 @@ Algo sobre cardinalidade
 - Orientação à objetos: em teoria, as classes que definimos são tipos abstratos
 
 - A partir de tipos existentes
+	- Pascal: `type DiasP = 1.31; #DiasP = 31`
 - Novo conjunto de valores a partir de um intervalo
-
 #### Operações sobre tipos construídos
 - Em C conseguimos somar `jan` com `fev`
 	- Faz uma representação de inteiros

@@ -62,4 +62,4 @@ _Página 49_
 _Página 52_
 - Base está certa
 _Página 54_
-- Provamos para $n$'s em potência de 2
+- Provamos para $n$ 's em potência de 2

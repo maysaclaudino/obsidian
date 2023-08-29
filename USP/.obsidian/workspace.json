@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5462387089d8743a",
+            "id": "053cd37b52933005",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0316 Conceitos/Variáveis.md",
+                "file": "_MAC0338 Análise/Resolução de recorrências.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "440cb14d3996dcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MAC0338 Análise/Partição.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAC0316 Conceitos/Variáveis.md",
+                "file": "_MAC0338 Análise/Partição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAC0316 Conceitos/Variáveis.md",
+                "file": "_MAC0338 Análise/Partição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAC0316 Conceitos/Variáveis.md"
+                "file": "_MAC0338 Análise/Partição.md"
               }
             }
           }
@@ -116,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,34 +144,41 @@
       "hide-folders:Show hidden folders": true
     }
   },
-  "active": "5462387089d8743a",
+  "active": "440cb14d3996dcef",
   "lastOpenFiles": [
-    "_MAC0316 Conceitos/Valores e tipos.md",
-    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
+    "_MAC0338 Análise/slides/Não confirmado 347522.crdownload",
+    "_MAC0338 Análise/slides/aula04_particao.pdf",
+    "_MAC0338 Análise/slides/aula04.pdf",
+    "_MAC0338 Análise/Resolução de recorrências.md",
+    "_MAC0338 Análise/Partição.md",
+    "_MAC0338 Análise/slides/Não confirmado 982019.crdownload",
+    "_MAC0338 Análise/slides/Não confirmado 543998.crdownload",
+    "_MAC0338 Análise/slides/Não confirmado 717030.crdownload",
+    "_MAC0338 Análise/Divisão e Conquista.md",
+    "_MAC0338 Análise/slides/aula03_resolucao-recorrencias.pdf",
+    "_MAC0338 Análise/slides/Não confirmado 418873.crdownload",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
     "BCC USP.md",
-    "_0440620 Pedrinhas/Geologia Geral.md",
+    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+    "_MAC0414 Autômatos/Linguagem regular.md",
+    "_MAC0414 Autômatos/Autômatos Finitos Determinísticos.md",
+    "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
     "_MAC0316 Conceitos/Variáveis.md",
+    "_MAC0316 Conceitos/Vinculação.md",
+    "_0440620 Pedrinhas/Geologia Geral.md",
+    "_MAC0316 Conceitos/Valores e tipos.md",
     "_MAC0316 Conceitos/Linguística de Programação.md",
     "Controle de faltas.md",
-    "_MAC0338 Análise/Análise de Algoritmos.md",
     "_MAT3211 Algelin/Álgebra Linear.md",
     "_MAT3211 Algelin/Espaço vetorial.md",
     "_MAT3211 Algelin/Corpos.md",
     "_MAT3211 Algelin/Números.md",
     "_MAC0414 Autômatos/Expressões Regulares.md",
-    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
     "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
-    "_MAC0414 Autômatos/Linguagem regular.md",
-    "_MAC0414 Autômatos/Autômatos Finitos Determinísticos.md",
     "_0440620 Pedrinhas/Estrutura da terra.md",
     "_0440620 Pedrinhas/Sistema Solar.md",
     "_0440620 Pedrinhas/Estrelas.md",
     "_0440620 Pedrinhas/Universo.md",
-    "_0440620 Pedrinhas/Geologia.md",
-    "_MAC0338 Análise/Divisão e Conquista.md",
-    "_MAC0338 Análise/Notação assintótica.md",
-    "_MAC0338 Análise/Notação Theta.md",
-    "_MAC0338 Análise/Notação Omega.md",
     "_MAC0414 Autômatos/aula 15",
     "_MAC0414 Autômatos/slides/aula01_organized.pdf"
   ]
