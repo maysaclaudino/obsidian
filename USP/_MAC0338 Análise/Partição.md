@@ -21,7 +21,7 @@ _Página 24_
 _Página 26_
 - $n\coloneqq r-p+1$ tamanho do trecho
 - $O(n)$ pois pode ser que não execute nenhuma vez
-# Quicksort
+# [[Quicksort]]
 _Página 27_
 _Página 41_
 - $T(k)$ chamada da esquerda

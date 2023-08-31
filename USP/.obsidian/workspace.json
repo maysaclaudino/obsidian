@@ -8,31 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "053cd37b52933005",
+            "id": "303260bc7287d493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAC0338 Análise/Resolução de recorrências.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "440cb14d3996dcef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_MAC0338 Análise/Partição.md",
+                "file": "_MAC0338 Análise/Análise probabilística.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "9fe96516a81fe7a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e1b3d13db657e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "_MAC0338 Análise/Análise probabilística.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,14 +94,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAC0338 Análise/Partição.md",
+                "file": "_MAC0338 Análise/Análise probabilística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAC0338 Análise/Partição.md",
+                "file": "_MAC0338 Análise/Análise probabilística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAC0338 Análise/Partição.md"
+                "file": "_MAC0338 Análise/Análise probabilística.md"
               }
             }
           }
@@ -138,28 +141,34 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-custom-frames:Open Google Calendar": true,
-      "obsidian-custom-frames:Open Google Keep": true,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Google Keep": false,
       "homepage:Open homepage": false,
-      "hide-folders:Show hidden folders": true
+      "hide-folders:Show hidden folders": false
     }
   },
-  "active": "440cb14d3996dcef",
+  "active": "303260bc7287d493",
   "lastOpenFiles": [
+    "_MAC0338 Análise/Quicksort.md",
+    "_MAC0338 Análise/Análise probabilística.md",
+    "_MAC0338 Análise/slides/Não confirmado 559435.crdownload",
+    "_MAC0338 Análise/slides/aula05.pdf",
+    "_MAC0338 Análise/Partição.md",
+    "_MAC0338 Análise/Análise de Algoritmos.md",
+    "_MAC0338 Análise/slides/aula04_quicksort.pdf",
+    "_MAC0338 Análise/slides/Não confirmado 278703.crdownload",
+    "BCC USP.md",
+    "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
+    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
+    "_MAC0414 Autômatos/Expressões Regulares.md",
     "_MAC0338 Análise/slides/Não confirmado 347522.crdownload",
     "_MAC0338 Análise/slides/aula04_particao.pdf",
     "_MAC0338 Análise/slides/aula04.pdf",
     "_MAC0338 Análise/Resolução de recorrências.md",
-    "_MAC0338 Análise/Partição.md",
     "_MAC0338 Análise/slides/Não confirmado 982019.crdownload",
     "_MAC0338 Análise/slides/Não confirmado 543998.crdownload",
     "_MAC0338 Análise/slides/Não confirmado 717030.crdownload",
     "_MAC0338 Análise/Divisão e Conquista.md",
-    "_MAC0338 Análise/slides/aula03_resolucao-recorrencias.pdf",
-    "_MAC0338 Análise/slides/Não confirmado 418873.crdownload",
-    "_MAC0338 Análise/Análise de Algoritmos.md",
-    "BCC USP.md",
-    "_MAC0414 Autômatos/Autômatos, Computabilidade e Complexidade.md",
     "_MAC0414 Autômatos/Linguagem regular.md",
     "_MAC0414 Autômatos/Autômatos Finitos Determinísticos.md",
     "_MAC0316 Conceitos/Conceitos Fundamentais de Linguagens de Programação.md",
@@ -173,13 +182,8 @@
     "_MAT3211 Algelin/Espaço vetorial.md",
     "_MAT3211 Algelin/Corpos.md",
     "_MAT3211 Algelin/Números.md",
-    "_MAC0414 Autômatos/Expressões Regulares.md",
-    "_MAC0414 Autômatos/Autômatos Finitos Não-determinísticos.md",
     "_0440620 Pedrinhas/Estrutura da terra.md",
     "_0440620 Pedrinhas/Sistema Solar.md",
-    "_0440620 Pedrinhas/Estrelas.md",
-    "_0440620 Pedrinhas/Universo.md",
-    "_MAC0414 Autômatos/aula 15",
-    "_MAC0414 Autômatos/slides/aula01_organized.pdf"
+    "_0440620 Pedrinhas/Estrelas.md"
   ]
 }
